@@ -3857,3 +3857,153 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.14-18.35.29:653][807]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/BEFXH6NL4OXENI14CRY2PA_Auto446001FC54E4E2940BF8414B3DBF6CB50.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/D/HG/BEFXH6NL4OXENI14CRY2PA_Auto4.uasset'
 [2025.10.14-18.35.29:658][807]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VehicleTemplate/Maps/Lvl_VehicleBasic' took 0.564
 [2025.10.14-18.35.29:658][807]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.564
+[2025.10.14-18.36.00:565][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.10.14-18.36.02:481][  1]LogSlate: Window 'Save Content' being destroyed
+[2025.10.14-18.36.02:527][  1]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.36.02:623][  1]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/0/KR/NYLCWHFQIFXAXOEE5OY5PA
+[2025.10.14-18.36.02:624][  1]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/NYLCWHFQIFXAXOEE5OY5PA2AA1345F4F346B7C0F4C39AF3AAFC050.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/0/KR/NYLCWHFQIFXAXOEE5OY5PA.uasset'
+[2025.10.14-18.36.02:643][  1]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/6/TZ/G9VZWX27C5OUJJ5H45TDYE
+[2025.10.14-18.36.02:644][  1]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/G9VZWX27C5OUJJ5H45TDYE4DF80617444E399F82DDB295FC5EBB8E.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/6/TZ/G9VZWX27C5OUJJ5H45TDYE.uasset'
+[2025.10.14-18.36.02:664][  1]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/D/QM/24L3CG2YC2O0RVNM87BNWF
+[2025.10.14-18.36.02:666][  1]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/24L3CG2YC2O0RVNM87BNWFC0EE7551468C3444C01DD0A726DFE5B0.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/D/QM/24L3CG2YC2O0RVNM87BNWF.uasset'
+[2025.10.14-18.36.02:682][  1]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/1/XT/9VAK821RYJE7KLG95BYL5G
+[2025.10.14-18.36.02:683][  1]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/9VAK821RYJE7KLG95BYL5G63297FF84DFCF7669FCCE5BC45D9D934.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/1/XT/9VAK821RYJE7KLG95BYL5G.uasset'
+[2025.10.14-18.36.02:699][  1]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/8/OD/MAXCQC7JDEE3EJSUAHH4VF
+[2025.10.14-18.36.02:700][  1]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/MAXCQC7JDEE3EJSUAHH4VFDF4C8AF84BE9E8FBF6E40EAEE15AF4D4.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/8/OD/MAXCQC7JDEE3EJSUAHH4VF.uasset'
+[2025.10.14-18.36.02:717][  1]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/4/SK/CM8C5L6ZJPWARXLCTR818A
+[2025.10.14-18.36.02:718][  1]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/CM8C5L6ZJPWARXLCTR818A5A8F046A4A6428804CB0049E2C122033.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/4/SK/CM8C5L6ZJPWARXLCTR818A.uasset'
+[2025.10.14-18.36.02:733][  1]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/2/0B/G84REIXS1ZF8JYJFNFPOUL
+[2025.10.14-18.36.02:735][  1]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/G84REIXS1ZF8JYJFNFPOUL68C0569944DE5B3C08922B923EE58500.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/2/0B/G84REIXS1ZF8JYJFNFPOUL.uasset'
+[2025.10.14-18.36.02:751][  1]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/3/GH/S5MYGIVQ8NDL8KGRJKAP68
+[2025.10.14-18.36.02:752][  1]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/S5MYGIVQ8NDL8KGRJKAP68DF910225485BD62F97F8318D0952F1E5.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/3/GH/S5MYGIVQ8NDL8KGRJKAP68.uasset'
+[2025.10.14-18.36.02:768][  1]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/6/LO/FPK4K0LAPBNIRLDMKP54ZO
+[2025.10.14-18.36.02:770][  1]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/FPK4K0LAPBNIRLDMKP54ZO8D77C5E64ABECB317C4E25B1BA2D8D32.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/6/LO/FPK4K0LAPBNIRLDMKP54ZO.uasset'
+[2025.10.14-18.36.02:792][  1]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/2/0U/HFTKVE6D01GQB1583Y5Z6L
+[2025.10.14-18.36.02:793][  1]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/HFTKVE6D01GQB1583Y5Z6LAA3FCD7A455DEDD86CAF28AA8A202344.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/2/0U/HFTKVE6D01GQB1583Y5Z6L.uasset'
+[2025.10.14-18.36.02:809][  1]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/9/NZ/0ADI3GSGHDBDPR23EQRL1H
+[2025.10.14-18.36.02:810][  1]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/0ADI3GSGHDBDPR23EQRL1H8A6D96BB4A0AC9FF16D762B2D70EE6B6.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/9/NZ/0ADI3GSGHDBDPR23EQRL1H.uasset'
+[2025.10.14-18.36.02:826][  1]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/A/9N/Z3CGFWG50S0KOZ90HIPPR1
+[2025.10.14-18.36.02:827][  1]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/Z3CGFWG50S0KOZ90HIPPR11C5FB638495A24AD76643EAF3CD624EB.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/A/9N/Z3CGFWG50S0KOZ90HIPPR1.uasset'
+[2025.10.14-18.36.02:841][  1]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/1/JB/6MFQKMD9JKGY7WR6DZ02W5
+[2025.10.14-18.36.02:844][  1]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/6MFQKMD9JKGY7WR6DZ02W57BCB1E544E22E1D162CF0D8FF2586C71.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/1/JB/6MFQKMD9JKGY7WR6DZ02W5.uasset'
+[2025.10.14-18.36.02:859][  1]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/C/D9/YGKSLZALQE1QXZ6KL1R4SV
+[2025.10.14-18.36.02:860][  1]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/YGKSLZALQE1QXZ6KL1R4SV75EDF64843C2181637D6B2B200341A7B.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/C/D9/YGKSLZALQE1QXZ6KL1R4SV.uasset'
+[2025.10.14-18.36.02:876][  1]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/9/L2/7C3FAMOHSOPU7A57XNKWM5
+[2025.10.14-18.36.02:878][  1]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/7C3FAMOHSOPU7A57XNKWM59FF704D34D363E4BD80E598168A5DBC1.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/9/L2/7C3FAMOHSOPU7A57XNKWM5.uasset'
+[2025.10.14-18.36.02:893][  1]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/E/ML/IKPL8TZIPJD28W1PES33RZ
+[2025.10.14-18.36.02:894][  1]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/IKPL8TZIPJD28W1PES33RZ0FDF210E42FF84732C19FB9198B0153A.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/E/ML/IKPL8TZIPJD28W1PES33RZ.uasset'
+[2025.10.14-18.36.02:910][  1]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/8/53/3LSQ6KFZT3CWWBDSM16F24
+[2025.10.14-18.36.02:911][  1]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/3LSQ6KFZT3CWWBDSM16F24ACC897984D87AE5138FB03BB486B958B.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/8/53/3LSQ6KFZT3CWWBDSM16F24.uasset'
+[2025.10.14-18.36.02:928][  1]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/A/KY/K19NZNJ7O4G67B3AU75EQD
+[2025.10.14-18.36.02:930][  1]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/K19NZNJ7O4G67B3AU75EQD2D75634C4E259DA6FBDFECB8821BBA7B.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/A/KY/K19NZNJ7O4G67B3AU75EQD.uasset'
+[2025.10.14-18.36.02:946][  1]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/1/23/FH9KCAFRU3QUPW8AX2N9NV
+[2025.10.14-18.36.02:947][  1]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/FH9KCAFRU3QUPW8AX2N9NV53142871406D8CA2D9CAB784D1C78B7F.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/1/23/FH9KCAFRU3QUPW8AX2N9NV.uasset'
+[2025.10.14-18.36.02:963][  1]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/6/EH/M115RGFMJASOSDSSXFZ6KX
+[2025.10.14-18.36.02:965][  1]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/M115RGFMJASOSDSSXFZ6KXE6BE817745ECB0CE049F2C93272239AA.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/6/EH/M115RGFMJASOSDSSXFZ6KX.uasset'
+[2025.10.14-18.36.02:980][  1]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/C/AQ/ZN2LG3XCUCL2GVOJG1MEXI
+[2025.10.14-18.36.02:981][  1]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/ZN2LG3XCUCL2GVOJG1MEXICD214D4145A349EFF4E575932E95E8F7.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/C/AQ/ZN2LG3XCUCL2GVOJG1MEXI.uasset'
+[2025.10.14-18.36.03:000][  1]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/3/QG/DRBB9TOV3KBJEJ36OIPT4M
+[2025.10.14-18.36.03:002][  1]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/DRBB9TOV3KBJEJ36OIPT4M6291F3C14AE0E478AA43CDB93EAD08D3.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/3/QG/DRBB9TOV3KBJEJ36OIPT4M.uasset'
+[2025.10.14-18.36.03:017][  1]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/3/2H/MEOPHOK4CACTX9T28TL3CB
+[2025.10.14-18.36.03:019][  1]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/MEOPHOK4CACTX9T28TL3CBC825182D4D30A4CE3C20DCA225AF07FB.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/3/2H/MEOPHOK4CACTX9T28TL3CB.uasset'
+[2025.10.14-18.36.03:033][  1]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/1/Q8/URR5T1OB7DUUWZIMQCTV4H
+[2025.10.14-18.36.03:035][  1]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/URR5T1OB7DUUWZIMQCTV4H4B2C619B43DDAEE466DC1487644A8153.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/1/Q8/URR5T1OB7DUUWZIMQCTV4H.uasset'
+[2025.10.14-18.36.03:051][  1]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/8/VQ/WWZENIH2WVF01BYZHMDK1O
+[2025.10.14-18.36.03:052][  1]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/WWZENIH2WVF01BYZHMDK1O48442DB1425BAE5A8646E5BDACCF16E7.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/8/VQ/WWZENIH2WVF01BYZHMDK1O.uasset'
+[2025.10.14-18.36.03:069][  1]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/D/HG/BEFXH6NL4OXENI14CRY2PA
+[2025.10.14-18.36.03:070][  1]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/BEFXH6NL4OXENI14CRY2PAE24686AE4769C4D0309930A71E211834.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/D/HG/BEFXH6NL4OXENI14CRY2PA.uasset'
+[2025.10.14-18.36.03:101][  1]LogFileHelpers: InternalPromptForCheckoutAndSave took 574.921 ms (total: 6.42 sec)
+[2025.10.14-18.36.03:226][  1]LogStall: Shutdown...
+[2025.10.14-18.36.03:226][  1]LogStall: Shutdown complete.
+[2025.10.14-18.36.03:309][  1]LogSlate: Window 'CarGameProject - Unreal Editor' being destroyed
+[2025.10.14-18.36.08:322][  1]LogContentValidation: Display: Starting to validate 26 assets
+[2025.10.14-18.36.08:322][  1]LogContentValidation: Enabled validators:
+[2025.10.14-18.36.08:322][  1]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.36.08:322][  1]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.36.08:322][  1]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.36.08:322][  1]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.36.08:322][  1]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.36.08:322][  1]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.36.08:324][  1]AssetCheck: /Game/VehicleTemplate/Maps/Lvl_VehicleBasic Validating asset
+[2025.10.14-18.36.08:332][  1]Cmd: QUIT_EDITOR
+[2025.10.14-18.36.08:333][  1]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.10.14-18.36.08:336][  1]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.14-18.36.08:362][  2]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.10.14-18.36.08:366][  2]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.10.14-18.36.08:367][  2]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.10.14-18.36.08:384][  2]LogWorld: UWorld::CleanupWorld for Lvl_VehicleBasic, bSessionEnded=true, bCleanupResources=true
+[2025.10.14-18.36.08:384][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.36.08:384][  2]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/VehicleTemplate/Maps/Lvl_VehicleBasic.Lvl_VehicleBasic
+[2025.10.14-18.36.08:466][  2]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.10.14-18.36.08:470][  2]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.10.14-18.36.08:494][  2]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.10.14-18.36.08:715][  2]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.10.14-18.36.08:716][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.36.08:722][  2]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.10.14-18.36.08:722][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.36.08:728][  2]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.10.14-18.36.08:730][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.36.08:735][  2]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.10.14-18.36.08:735][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.36.08:740][  2]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.10.14-18.36.08:740][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.36.08:745][  2]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.10.14-18.36.08:745][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.36.08:751][  2]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.10.14-18.36.08:751][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.36.08:757][  2]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.10.14-18.36.08:757][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.36.08:762][  2]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.10.14-18.36.08:762][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.36.08:773][  2]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.10.14-18.36.08:773][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.36.08:778][  2]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.10.14-18.36.08:778][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.36.08:802][  2]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.10.14-18.36.08:804][  2]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.10.14-18.36.08:845][  2]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.10.14-18.36.09:100][  2]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.10.14-18.36.09:100][  2]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.10.14-18.36.09:100][  2]LogAudio: Display: Audio Device unregistered from world 'Lvl_VehicleBasic'.
+[2025.10.14-18.36.09:100][  2]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.10.14-18.36.09:101][  2]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.10.14-18.36.09:120][  2]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.10.14-18.36.09:181][  2]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.10.14-18.36.09:182][  2]LogAudio: Display: Audio Device Manager Shutdown
+[2025.10.14-18.36.09:189][  2]LogWindowsTextInputMethodSystem: Activated input method: English (Canada) - (Keyboard).
+[2025.10.14-18.36.09:210][  2]LogExit: Preparing to exit.
+[2025.10.14-18.36.09:914][  2]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2025.10.14-18.36.09:964][  2]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.14-18.36.09:966][  2]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.14-18.36.09:972][  2]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.14-18.36.09:972][  2]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.14-18.36.09:972][  2]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.14-18.36.09:972][  2]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.14-18.36.09:972][  2]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.14-18.36.09:972][  2]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.14-18.36.09:972][  2]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.14-18.36.09:972][  2]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.14-18.36.09:972][  2]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.14-18.36.09:972][  2]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.14-18.36.09:973][  2]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.14-18.36.09:973][  2]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.14-18.36.09:973][  2]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.14-18.36.09:973][  2]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.14-18.36.09:973][  2]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.14-18.36.09:973][  2]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.14-18.36.09:974][  2]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.14-18.36.09:974][  2]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.14-18.36.09:974][  2]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.14-18.36.11:456][  2]LogEditorDataStorage: Deinitializing
+[2025.10.14-18.36.12:228][  2]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.10.14-18.36.12:564][  2]LogExit: Editor shut down
+[2025.10.14-18.36.12:621][  2]LogExit: Transaction tracking system shut down
+[2025.10.14-18.36.15:462][  2]LogExit: Object subsystem successfully closed.
+[2025.10.14-18.36.15:604][  2]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.10.14-18.36.16:825][  2]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.10.14-18.36.16:862][  2]LogMemoryProfiler: Shutdown
+[2025.10.14-18.36.16:864][  2]LogNetworkingProfiler: Shutdown
+[2025.10.14-18.36.16:864][  2]LoadingProfiler: Shutdown
+[2025.10.14-18.36.16:864][  2]LogTimingProfiler: Shutdown
+[2025.10.14-18.36.16:879][  2]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.10.14-18.36.16:880][  2]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
