@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/VehicleTemplate/Blueprints/OffroadCar/BP_VehicleAdvOffroadCar.uasset",
+				"C:/Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/My_Assets/BP_Bullet.uasset",
+				"C:/Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/VehicleTemplate/Blueprints/BP_VehicleAdvGameMode.uasset",
+				"C:/Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Variant_Offroad/Blueprints/BP_OffroadGameMode.uasset",
+				"C:/Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/My_Assets/BP_VehicleAdvOffroadCar.uasset",
 				"C:/Users/tyron/Perforce/Tyron.Fajardo_TheGoldenRule_3526/non Perforce Projects/CarGameProject/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/0/KR/NYLCWHFQIFXAXOEE5OY5PA.uasset",
 				"C:/Users/tyron/Perforce/Tyron.Fajardo_TheGoldenRule_3526/non Perforce Projects/CarGameProject/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/1/JB/6MFQKMD9JKGY7WR6DZ02W5.uasset",
 				"C:/Users/tyron/Perforce/Tyron.Fajardo_TheGoldenRule_3526/non Perforce Projects/CarGameProject/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/9/L2/7C3FAMOHSOPU7A57XNKWM5.uasset",
