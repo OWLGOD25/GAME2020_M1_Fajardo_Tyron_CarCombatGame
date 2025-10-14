@@ -4007,3 +4007,16 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.14-18.36.16:864][  2]LogTimingProfiler: Shutdown
 [2025.10.14-18.36.16:879][  2]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
 [2025.10.14-18.36.16:880][  2]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.10.14-18.36.19:185][  2]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.10.14-18.36.19:217][  2]RenderDocPlugin: plugin has been unloaded.
+[2025.10.14-18.36.19:280][  2]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.10.14-18.36.19:281][  2]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B527F70B3-4634-21CC-A704-51A1B47CDD92%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=35ac5ca245ada9330ad3d5ae8b336ae7%7C77c5b6b2cf32457e98b444620d39ae82%7Cfaca4284-9fe5-4c5f-877d-bafb8bbcb3be&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.10.14-18.36.19:380][  2]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.10.14-18.36.19:386][  2]LogNFORDenoise: NFORDenoise function shutting down
+[2025.10.14-18.36.19:399][  2]LogXGEController: Cleaning working directory: C:/Users/tyron/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.10.14-18.36.19:452][  2]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.10.14-18.36.19:452][  2]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.10.14-18.36.19:455][  2]LogPakFile: Destroying PakPlatformFile
+[2025.10.14-18.36.21:690][  2]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.10.14-18.36.21:802][  2]LogExit: Exiting.
+[2025.10.14-18.36.21:941][  2]Log file closed, 10/14/25 14:36:21
