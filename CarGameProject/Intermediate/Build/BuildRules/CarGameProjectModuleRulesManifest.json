@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\tyron\\Downloads\\C++ Repo\\GAME2020_M1_Fajardo_Tyron_CarCombatGame\\CarGameProject\\Intermediate\\Source\\CarGameProject.Build.cs",
+		"C:\\Users\\tyron\\Downloads\\C++ Repo\\GAME2020_M1_Fajardo_Tyron_CarCombatGame\\CarGameProject\\Intermediate\\Source\\CarGameProject.Target.cs",
+		"C:\\Users\\tyron\\Downloads\\C++ Repo\\GAME2020_M1_Fajardo_Tyron_CarCombatGame\\CarGameProject\\Intermediate\\Source\\CarGameProjectClient.Target.cs",
+		"C:\\Users\\tyron\\Downloads\\C++ Repo\\GAME2020_M1_Fajardo_Tyron_CarCombatGame\\CarGameProject\\Intermediate\\Source\\CarGameProjectEditor.Target.cs",
+		"C:\\Users\\tyron\\Downloads\\C++ Repo\\GAME2020_M1_Fajardo_Tyron_CarCombatGame\\CarGameProject\\Intermediate\\Source\\CarGameProjectServer.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
