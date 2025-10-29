@@ -9054,3 +9054,78 @@ Scale3D: 1.000000 1.000000 1.000000
 [2025.10.29-23.01.48:661][995]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/My_Assets/NewBlueprint_Auto6
 [2025.10.29-23.01.48:661][995]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/NewBlueprint_Auto6E3F2077D4EF8C0E82C893B9C698213BF.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/Autosaves/Game/My_Assets/NewBlueprint_Auto6.uasset'
 [2025.10.29-23.01.48:662][995]LogFileHelpers: Auto-saving content packages took 0.224
+[2025.10.29-23.07.55:452][876]LogUObjectHash: Compacting FUObjectHashTables data took  20.21ms
+[2025.10.29-23.08.00:046][ 12]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.29-23.08.00:084][ 12]LogContentBundle: [Lvl_VehicleBasic(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.29-23.08.00:084][ 12]LogWorldPartition: Display: GenerateStreaming for 'Lvl_VehicleBasic' started...
+[2025.10.29-23.08.00:120][ 12]LogWorldPartition: Display: GenerateStreaming for 'Lvl_VehicleBasic' took 35.091 ms (total: 2.03 sec)
+[2025.10.29-23.08.00:138][ 12]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.29-23.08.00:158][ 12]LogPlayLevel: Creating play world package: /Game/VehicleTemplate/Maps/UEDPIE_0_Lvl_VehicleBasic
+[2025.10.29-23.08.00:222][ 12]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.29-23.08.00:224][ 12]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 3.359 ms (total: 139.759 ms)
+[2025.10.29-23.08.00:227][ 12]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067497s)
+[2025.10.29-23.08.00:227][ 12]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleTemplate/Maps/Lvl_VehicleBasic.Lvl_VehicleBasic to /Game/VehicleTemplate/Maps/UEDPIE_0_Lvl_VehicleBasic.Lvl_VehicleBasic (0.069415s)
+[2025.10.29-23.08.00:274][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2025.10.29-23.08.00:292][ 12]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_VehicleBasic
+[2025.10.29-23.08.00:385][ 12]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_VehicleBasic)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.29-23.08.00:385][ 12]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.29-23.08.00:385][ 12]LogWorldPartition: UWorldPartition::Initialize : World = /Game/VehicleTemplate/Maps/UEDPIE_0_Lvl_VehicleBasic.Lvl_VehicleBasic, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.29-23.08.00:387][ 12]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.29-23.08.00:397][ 12]LogWorldPartition: Display: WorldPartition initialize took 11.696 ms (total: 2.34 sec)
+[2025.10.29-23.08.00:401][ 12]LogPlayLevel: PIE: World Init took: (0.111616s)
+[2025.10.29-23.08.00:406][ 12]LogAudio: Display: Creating Audio Device:                 Id: 65, Scope: Unique, Realtime: True
+[2025.10.29-23.08.00:408][ 12]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.29-23.08.00:408][ 12]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.29-23.08.00:409][ 12]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.29-23.08.00:409][ 12]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.29-23.08.00:409][ 12]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.29-23.08.00:409][ 12]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.29-23.08.00:409][ 12]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.29-23.08.00:409][ 12]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.29-23.08.00:413][ 12]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.29-23.08.00:413][ 12]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.29-23.08.00:413][ 12]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.29-23.08.00:644][ 12]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.29-23.08.00:686][ 12]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Monster N-Lite 203 AirLinks)
+[2025.10.29-23.08.00:694][ 12]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.29-23.08.00:695][ 12]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.29-23.08.00:697][ 12]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.29-23.08.00:703][ 12]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=65
+[2025.10.29-23.08.00:703][ 12]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=65
+[2025.10.29-23.08.00:709][ 12]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=65
+[2025.10.29-23.08.00:709][ 12]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=65
+[2025.10.29-23.08.00:710][ 12]LogInit: FAudioDevice initialized with ID 65.
+[2025.10.29-23.08.00:710][ 12]LogAudio: Display: Audio Device (ID: 65) registered with world 'Lvl_VehicleBasic'.
+[2025.10.29-23.08.00:713][ 12]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 65
+[2025.10.29-23.08.00:802][ 12]LogLoad: Game class is 'BP_VehicleAdvGameMode_C'
+[2025.10.29-23.08.00:844][ 12]LogWorld: Bringing World /Game/VehicleTemplate/Maps/UEDPIE_0_Lvl_VehicleBasic.Lvl_VehicleBasic up for play (max tick rate 60) at 2025.10.29-19.08.00
+[2025.10.29-23.08.00:857][ 12]LogWorld: Bringing up level for play took: 0.047313
+[2025.10.29-23.08.00:885][ 12]LogOnline: OSS: Created online subsystem instance for: :Context_110
+[2025.10.29-23.08.01:075][ 12]PIE: Server logged in
+[2025.10.29-23.08.01:080][ 12]PIE: Play in editor total start time 1.006 seconds.
+[2025.10.29-23.08.04:969][197]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Fire) or object (NewBlueprint_C_UAID_E89C25CFACBB1D9D02_1482898402)
+[2025.10.29-23.08.11:051][529]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Fire) or object (NewBlueprint_C_UAID_E89C25CFACBB1D9D02_1482898402)
+[2025.10.29-23.08.13:617][665]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Fire) or object (NewBlueprint_C_UAID_E89C25CFACBB1D9D02_1482898402)
+[2025.10.29-23.08.29:367][531]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Fire) or object (NewBlueprint_C_UAID_E89C25CFACBB1D9D02_1482898402)
+[2025.10.29-23.08.31:419][643]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Fire) or object (NewBlueprint_C_UAID_E89C25CFACBB1D9D02_1482898402)
+[2025.10.29-23.08.35:534][869]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Fire) or object (NewBlueprint_C_UAID_E89C25CFACBB1D9D02_1482898402)
+[2025.10.29-23.08.40:624][153]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Fire) or object (NewBlueprint_C_UAID_E89C25CFACBB1D9D02_1482898402)
+[2025.10.29-23.08.41:639][205]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Fire) or object (NewBlueprint_C_UAID_E89C25CFACBB1D9D02_1482898402)
+[2025.10.29-23.08.50:787][703]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Fire) or object (NewBlueprint_C_UAID_E89C25CFACBB1D9D02_1482898402)
+[2025.10.29-23.08.57:418][ 65]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Fire) or object (NewBlueprint_C_UAID_E89C25CFACBB1D9D02_1482898402)
+[2025.10.29-23.09.04:560][455]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Fire) or object (NewBlueprint_C_UAID_E89C25CFACBB1D9D02_1482898402)
+[2025.10.29-23.09.08:654][683]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Fire) or object (NewBlueprint_C_UAID_E89C25CFACBB1D9D02_1482898402)
+[2025.10.29-23.09.11:022][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.29-23.09.11:022][811]LogWorld: BeginTearingDown for /Game/VehicleTemplate/Maps/UEDPIE_0_Lvl_VehicleBasic
+[2025.10.29-23.09.11:031][811]LogWorld: UWorld::CleanupWorld for Lvl_VehicleBasic, bSessionEnded=true, bCleanupResources=true
+[2025.10.29-23.09.11:046][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-23.09.11:047][811]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/VehicleTemplate/Maps/UEDPIE_0_Lvl_VehicleBasic.Lvl_VehicleBasic
+[2025.10.29-23.09.11:075][811]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.29-23.09.11:084][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-23.09.11:128][811]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.29-23.09.11:135][811]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 65
+[2025.10.29-23.09.11:137][811]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=65, StreamState=4
+[2025.10.29-23.09.11:142][811]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=65, StreamState=2
+[2025.10.29-23.09.11:248][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.29-23.09.11:283][811]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2025.10.29-23.09.11:574][812]LogPlayLevel: Display: Destroying online subsystem :Context_110
