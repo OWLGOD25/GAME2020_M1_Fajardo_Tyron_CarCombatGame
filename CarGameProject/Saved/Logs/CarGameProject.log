@@ -9129,3 +9129,333 @@ Scale3D: 1.000000 1.000000 1.000000
 [2025.10.29-23.09.11:248][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2025.10.29-23.09.11:283][811]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
 [2025.10.29-23.09.11:574][812]LogPlayLevel: Display: Destroying online subsystem :Context_110
+[2025.10.29-23.09.48:803][492]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2025.10.29-23.09.50:602][492]LogSlate: Window 'Save Content' being destroyed
+[2025.10.29-23.09.50:658][492]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.29-23.09.50:792][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Fixed_Machine_Gun_Turret_/Materials/2_2] ([1] browsable assets)...
+[2025.10.29-23.09.50:793][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Fixed_Machine_Gun_Turret_/Materials/2_2]
+[2025.10.29-23.09.50:830][492]LogSavePackage: Moving output files for package: /Game/Fab/Fixed_Machine_Gun_Turret_/Materials/2_2
+[2025.10.29-23.09.50:831][492]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/2_2CEAABF7D4A504E4E08028496CEB6400A.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Fab/Fixed_Machine_Gun_Turret_/Materials/2_2.uasset'
+[2025.10.29-23.09.50:869][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Fixed_Machine_Gun_Turret__00/Materials/2_2] ([1] browsable assets)...
+[2025.10.29-23.09.50:869][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Fixed_Machine_Gun_Turret__00/Materials/2_2]
+[2025.10.29-23.09.50:885][492]LogSavePackage: Moving output files for package: /Game/Fab/Fixed_Machine_Gun_Turret__00/Materials/2_2
+[2025.10.29-23.09.50:886][492]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/2_20FBA63C444D17C2E7A9737A3B6CF0EEE.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Fab/Fixed_Machine_Gun_Turret__00/Materials/2_2.uasset'
+[2025.10.29-23.09.50:889][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Fixed_Machine_Gun_Turret__01/Materials/2_2] ([1] browsable assets)...
+[2025.10.29-23.09.50:890][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Fixed_Machine_Gun_Turret__01/Materials/2_2]
+[2025.10.29-23.09.50:906][492]LogSavePackage: Moving output files for package: /Game/Fab/Fixed_Machine_Gun_Turret__01/Materials/2_2
+[2025.10.29-23.09.50:906][492]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/2_2C427FDA04358955E224C7FA08D092DC2.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Fab/Fixed_Machine_Gun_Turret__01/Materials/2_2.uasset'
+[2025.10.29-23.09.50:911][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Fixed_Machine_Gun_Turret_/Additional_Textures/2_AlbedoTransparency] ([1] browsable assets)...
+[2025.10.29-23.09.50:911][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Fixed_Machine_Gun_Turret_/Additional_Textures/2_AlbedoTransparency]
+[2025.10.29-23.09.51:077][492]LogSavePackage: Moving output files for package: /Game/Fab/Fixed_Machine_Gun_Turret_/Additional_Textures/2_AlbedoTransparency
+[2025.10.29-23.09.51:077][492]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/2_AlbedoTransparency4C18780D4083C84AD7072581C0A64818.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Fab/Fixed_Machine_Gun_Turret_/Additional_Textures/2_AlbedoTransparency.uasset'
+[2025.10.29-23.09.51:088][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Fixed_Machine_Gun_Turret__00/Additional_Textures/2_AlbedoTransparency] ([1] browsable assets)...
+[2025.10.29-23.09.51:089][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Fixed_Machine_Gun_Turret__00/Additional_Textures/2_AlbedoTransparency]
+[2025.10.29-23.09.51:194][492]LogSavePackage: Moving output files for package: /Game/Fab/Fixed_Machine_Gun_Turret__00/Additional_Textures/2_AlbedoTransparency
+[2025.10.29-23.09.51:194][492]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/2_AlbedoTransparency2E98510A4F5FEBB79EA60DBE465D73B8.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Fab/Fixed_Machine_Gun_Turret__00/Additional_Textures/2_AlbedoTransparency.uasset'
+[2025.10.29-23.09.51:200][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Fixed_Machine_Gun_Turret__01/Additional_Textures/2_AlbedoTransparency] ([1] browsable assets)...
+[2025.10.29-23.09.51:200][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Fixed_Machine_Gun_Turret__01/Additional_Textures/2_AlbedoTransparency]
+[2025.10.29-23.09.51:298][492]LogSavePackage: Moving output files for package: /Game/Fab/Fixed_Machine_Gun_Turret__01/Additional_Textures/2_AlbedoTransparency
+[2025.10.29-23.09.51:299][492]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/2_AlbedoTransparencyF59624D54B3820B245821FA721F61797.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Fab/Fixed_Machine_Gun_Turret__01/Additional_Textures/2_AlbedoTransparency.uasset'
+[2025.10.29-23.09.51:304][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Fixed_Machine_Gun_Turret_/Additional_Textures/2_MetallicSmoothness] ([1] browsable assets)...
+[2025.10.29-23.09.51:304][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Fixed_Machine_Gun_Turret_/Additional_Textures/2_MetallicSmoothness]
+[2025.10.29-23.09.51:437][492]LogSavePackage: Moving output files for package: /Game/Fab/Fixed_Machine_Gun_Turret_/Additional_Textures/2_MetallicSmoothness
+[2025.10.29-23.09.51:437][492]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/2_MetallicSmoothness44E1D1DA45ADC33AB70D71B21AC18111.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Fab/Fixed_Machine_Gun_Turret_/Additional_Textures/2_MetallicSmoothness.uasset'
+[2025.10.29-23.09.51:443][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Fixed_Machine_Gun_Turret__00/Additional_Textures/2_MetallicSmoothness] ([1] browsable assets)...
+[2025.10.29-23.09.51:443][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Fixed_Machine_Gun_Turret__00/Additional_Textures/2_MetallicSmoothness]
+[2025.10.29-23.09.51:550][492]LogSavePackage: Moving output files for package: /Game/Fab/Fixed_Machine_Gun_Turret__00/Additional_Textures/2_MetallicSmoothness
+[2025.10.29-23.09.51:550][492]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/2_MetallicSmoothnessA683A48B411B321EBBC1CD89E5CB3D75.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Fab/Fixed_Machine_Gun_Turret__00/Additional_Textures/2_MetallicSmoothness.uasset'
+[2025.10.29-23.09.51:554][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Fixed_Machine_Gun_Turret__01/Additional_Textures/2_MetallicSmoothness] ([1] browsable assets)...
+[2025.10.29-23.09.51:554][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Fixed_Machine_Gun_Turret__01/Additional_Textures/2_MetallicSmoothness]
+[2025.10.29-23.09.51:667][492]LogSavePackage: Moving output files for package: /Game/Fab/Fixed_Machine_Gun_Turret__01/Additional_Textures/2_MetallicSmoothness
+[2025.10.29-23.09.51:667][492]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/2_MetallicSmoothness0BCC07DF4A3B7C1D2A66B6BB3C7A4CEC.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Fab/Fixed_Machine_Gun_Turret__01/Additional_Textures/2_MetallicSmoothness.uasset'
+[2025.10.29-23.09.51:671][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Fixed_Machine_Gun_Turret_/Textures/2_Normal] ([1] browsable assets)...
+[2025.10.29-23.09.51:671][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Fixed_Machine_Gun_Turret_/Textures/2_Normal]
+[2025.10.29-23.09.51:821][492]LogSavePackage: Moving output files for package: /Game/Fab/Fixed_Machine_Gun_Turret_/Textures/2_Normal
+[2025.10.29-23.09.51:821][492]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/2_Normal656759714B2DC5CF68F6BEA8604736B2.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Fab/Fixed_Machine_Gun_Turret_/Textures/2_Normal.uasset'
+[2025.10.29-23.09.51:827][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Fixed_Machine_Gun_Turret__00/Textures/2_Normal] ([1] browsable assets)...
+[2025.10.29-23.09.51:827][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Fixed_Machine_Gun_Turret__00/Textures/2_Normal]
+[2025.10.29-23.09.51:954][492]LogSavePackage: Moving output files for package: /Game/Fab/Fixed_Machine_Gun_Turret__00/Textures/2_Normal
+[2025.10.29-23.09.51:954][492]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/2_NormalADEF60104BBB3A50703BD08F71640808.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Fab/Fixed_Machine_Gun_Turret__00/Textures/2_Normal.uasset'
+[2025.10.29-23.09.51:961][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Fixed_Machine_Gun_Turret__01/Textures/2_Normal] ([1] browsable assets)...
+[2025.10.29-23.09.51:961][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Fixed_Machine_Gun_Turret__01/Textures/2_Normal]
+[2025.10.29-23.09.52:101][492]LogSavePackage: Moving output files for package: /Game/Fab/Fixed_Machine_Gun_Turret__01/Textures/2_Normal
+[2025.10.29-23.09.52:101][492]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/2_Normal5FD3F2F6449430A5F5D421986A9DAC6C.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Fab/Fixed_Machine_Gun_Turret__01/Textures/2_Normal.uasset'
+[2025.10.29-23.09.52:104][492]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/My_Assets/BP_Bullet] ([2] browsable assets)...
+[2025.10.29-23.09.52:157][492]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/My_Assets/BP_Bullet.BP_Bullet]
+[2025.10.29-23.09.52:157][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/My_Assets/BP_Bullet]
+[2025.10.29-23.09.52:214][492]LogSavePackage: Moving output files for package: /Game/My_Assets/BP_Bullet
+[2025.10.29-23.09.52:215][492]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/BP_BulletFA5AF6F8428643CA8E792A86EDA82AB3.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/My_Assets/BP_Bullet.uasset'
+[2025.10.29-23.09.52:224][492]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/My_Assets/BP_Turret] ([2] browsable assets)...
+[2025.10.29-23.09.52:224][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/My_Assets/BP_Turret]
+[2025.10.29-23.09.52:281][492]LogSavePackage: Moving output files for package: /Game/My_Assets/BP_Turret
+[2025.10.29-23.09.52:281][492]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/BP_TurretA6996B1C45487D6B4AF01C9CA02406C5.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/My_Assets/BP_Turret.uasset'
+[2025.10.29-23.09.52:292][492]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/My_Assets/BP_TurretBullet] ([2] browsable assets)...
+[2025.10.29-23.09.52:292][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/My_Assets/BP_TurretBullet]
+[2025.10.29-23.09.52:326][492]LogSavePackage: Moving output files for package: /Game/My_Assets/BP_TurretBullet
+[2025.10.29-23.09.52:327][492]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/BP_TurretBullet6FAEEB124AE97DE676D9C7AD214DD967.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/My_Assets/BP_TurretBullet.uasset'
+[2025.10.29-23.09.52:335][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Fixed_Machine_Gun_Turret_/MGMain] ([1] browsable assets)...
+[2025.10.29-23.09.52:335][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Fixed_Machine_Gun_Turret_/MGMain]
+[2025.10.29-23.09.52:371][492]LogSavePackage: Moving output files for package: /Game/Fab/Fixed_Machine_Gun_Turret_/MGMain
+[2025.10.29-23.09.52:372][492]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/MGMain7CD105A146560E23510AB588D1E1A61E.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Fab/Fixed_Machine_Gun_Turret_/MGMain.uasset'
+[2025.10.29-23.09.52:381][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Fixed_Machine_Gun_Turret__00/MGMain] ([1] browsable assets)...
+[2025.10.29-23.09.52:381][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Fixed_Machine_Gun_Turret__00/MGMain]
+[2025.10.29-23.09.52:404][492]LogSavePackage: Moving output files for package: /Game/Fab/Fixed_Machine_Gun_Turret__00/MGMain
+[2025.10.29-23.09.52:404][492]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/MGMainE47349FB4A4BE34852ECABAB45058280.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Fab/Fixed_Machine_Gun_Turret__00/MGMain.uasset'
+[2025.10.29-23.09.52:409][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Fixed_Machine_Gun_Turret__01/MGMain] ([1] browsable assets)...
+[2025.10.29-23.09.52:409][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Fixed_Machine_Gun_Turret__01/MGMain]
+[2025.10.29-23.09.52:431][492]LogSavePackage: Moving output files for package: /Game/Fab/Fixed_Machine_Gun_Turret__01/MGMain
+[2025.10.29-23.09.52:431][492]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/MGMainB78D0B514948F728A89287A3ED834D6C.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Fab/Fixed_Machine_Gun_Turret__01/MGMain.uasset'
+[2025.10.29-23.09.52:433][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Fixed_Machine_Gun_Turret_/Materials/MG_turret_portable_arma] ([1] browsable assets)...
+[2025.10.29-23.09.52:434][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Fixed_Machine_Gun_Turret_/Materials/MG_turret_portable_arma]
+[2025.10.29-23.09.52:450][492]LogSavePackage: Moving output files for package: /Game/Fab/Fixed_Machine_Gun_Turret_/Materials/MG_turret_portable_arma
+[2025.10.29-23.09.52:450][492]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/MG_turret_portable_arma5B81E619476AD7DA5B65339381FD7FBE.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Fab/Fixed_Machine_Gun_Turret_/Materials/MG_turret_portable_arma.uasset'
+[2025.10.29-23.09.52:453][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Fixed_Machine_Gun_Turret__00/Materials/MG_turret_portable_arma] ([1] browsable assets)...
+[2025.10.29-23.09.52:453][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Fixed_Machine_Gun_Turret__00/Materials/MG_turret_portable_arma]
+[2025.10.29-23.09.52:470][492]LogSavePackage: Moving output files for package: /Game/Fab/Fixed_Machine_Gun_Turret__00/Materials/MG_turret_portable_arma
+[2025.10.29-23.09.52:470][492]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/MG_turret_portable_armaD907C17949B9BA271A5E42B9BE2F47FC.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Fab/Fixed_Machine_Gun_Turret__00/Materials/MG_turret_portable_arma.uasset'
+[2025.10.29-23.09.52:474][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Fixed_Machine_Gun_Turret__01/Materials/MG_turret_portable_arma] ([1] browsable assets)...
+[2025.10.29-23.09.52:474][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Fixed_Machine_Gun_Turret__01/Materials/MG_turret_portable_arma]
+[2025.10.29-23.09.52:492][492]LogSavePackage: Moving output files for package: /Game/Fab/Fixed_Machine_Gun_Turret__01/Materials/MG_turret_portable_arma
+[2025.10.29-23.09.52:492][492]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/MG_turret_portable_armaF737AFB9403682B4C2D5269611DE9F0B.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Fab/Fixed_Machine_Gun_Turret__01/Materials/MG_turret_portable_arma.uasset'
+[2025.10.29-23.09.52:501][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Fixed_Machine_Gun_Turret_/Additional_Textures/MG_turret_portable_arma_AlbedoTransparency] ([1] browsable assets)...
+[2025.10.29-23.09.52:501][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Fixed_Machine_Gun_Turret_/Additional_Textures/MG_turret_portable_arma_AlbedoTransparency]
+[2025.10.29-23.09.52:606][492]LogSavePackage: Moving output files for package: /Game/Fab/Fixed_Machine_Gun_Turret_/Additional_Textures/MG_turret_portable_arma_AlbedoTransparency
+[2025.10.29-23.09.52:606][492]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/MG_turret_portable_arma_AlbedoTr8BEADBBF448AD4ECC23DBFA14E2F5758.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Fab/Fixed_Machine_Gun_Turret_/Additional_Textures/MG_turret_portable_arma_AlbedoTransparency.uasset'
+[2025.10.29-23.09.52:612][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Fixed_Machine_Gun_Turret__00/Additional_Textures/MG_turret_portable_arma_AlbedoTransparency] ([1] browsable assets)...
+[2025.10.29-23.09.52:612][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Fixed_Machine_Gun_Turret__00/Additional_Textures/MG_turret_portable_arma_AlbedoTransparency]
+[2025.10.29-23.09.52:694][492]LogSavePackage: Moving output files for package: /Game/Fab/Fixed_Machine_Gun_Turret__00/Additional_Textures/MG_turret_portable_arma_AlbedoTransparency
+[2025.10.29-23.09.52:694][492]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/MG_turret_portable_arma_AlbedoTr26270EA245B52BD00D6856A67B5246B8.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Fab/Fixed_Machine_Gun_Turret__00/Additional_Textures/MG_turret_portable_arma_AlbedoTransparency.uasset'
+[2025.10.29-23.09.52:705][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Fixed_Machine_Gun_Turret__01/Additional_Textures/MG_turret_portable_arma_AlbedoTransparency] ([1] browsable assets)...
+[2025.10.29-23.09.52:705][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Fixed_Machine_Gun_Turret__01/Additional_Textures/MG_turret_portable_arma_AlbedoTransparency]
+[2025.10.29-23.09.52:790][492]LogSavePackage: Moving output files for package: /Game/Fab/Fixed_Machine_Gun_Turret__01/Additional_Textures/MG_turret_portable_arma_AlbedoTransparency
+[2025.10.29-23.09.52:790][492]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/MG_turret_portable_arma_AlbedoTr1078C6184444B924AF8C8B8755DA25D3.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Fab/Fixed_Machine_Gun_Turret__01/Additional_Textures/MG_turret_portable_arma_AlbedoTransparency.uasset'
+[2025.10.29-23.09.52:794][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Fixed_Machine_Gun_Turret_/Additional_Textures/MG_turret_portable_arma_MetallicSmoothness] ([1] browsable assets)...
+[2025.10.29-23.09.52:794][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Fixed_Machine_Gun_Turret_/Additional_Textures/MG_turret_portable_arma_MetallicSmoothness]
+[2025.10.29-23.09.52:877][492]LogSavePackage: Moving output files for package: /Game/Fab/Fixed_Machine_Gun_Turret_/Additional_Textures/MG_turret_portable_arma_MetallicSmoothness
+[2025.10.29-23.09.52:877][492]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/MG_turret_portable_arma_MetallicB72189C74DCAB7B6A544199E216F9873.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Fab/Fixed_Machine_Gun_Turret_/Additional_Textures/MG_turret_portable_arma_MetallicSmoothness.uasset'
+[2025.10.29-23.09.52:880][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Fixed_Machine_Gun_Turret__00/Additional_Textures/MG_turret_portable_arma_MetallicSmoothness] ([1] browsable assets)...
+[2025.10.29-23.09.52:880][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Fixed_Machine_Gun_Turret__00/Additional_Textures/MG_turret_portable_arma_MetallicSmoothness]
+[2025.10.29-23.09.52:960][492]LogSavePackage: Moving output files for package: /Game/Fab/Fixed_Machine_Gun_Turret__00/Additional_Textures/MG_turret_portable_arma_MetallicSmoothness
+[2025.10.29-23.09.52:960][492]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/MG_turret_portable_arma_MetallicC2DC411840C5CED4A55FA79C5A57C499.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Fab/Fixed_Machine_Gun_Turret__00/Additional_Textures/MG_turret_portable_arma_MetallicSmoothness.uasset'
+[2025.10.29-23.09.52:963][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Fixed_Machine_Gun_Turret__01/Additional_Textures/MG_turret_portable_arma_MetallicSmoothness] ([1] browsable assets)...
+[2025.10.29-23.09.52:964][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Fixed_Machine_Gun_Turret__01/Additional_Textures/MG_turret_portable_arma_MetallicSmoothness]
+[2025.10.29-23.09.53:037][492]LogSavePackage: Moving output files for package: /Game/Fab/Fixed_Machine_Gun_Turret__01/Additional_Textures/MG_turret_portable_arma_MetallicSmoothness
+[2025.10.29-23.09.53:037][492]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/MG_turret_portable_arma_MetallicB4D2BFB54BBA8AD43A6EF08D52CA7CAE.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Fab/Fixed_Machine_Gun_Turret__01/Additional_Textures/MG_turret_portable_arma_MetallicSmoothness.uasset'
+[2025.10.29-23.09.53:049][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Fixed_Machine_Gun_Turret_/Textures/MG_turret_portable_arma_Normal] ([1] browsable assets)...
+[2025.10.29-23.09.53:049][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Fixed_Machine_Gun_Turret_/Textures/MG_turret_portable_arma_Normal]
+[2025.10.29-23.09.53:155][492]LogSavePackage: Moving output files for package: /Game/Fab/Fixed_Machine_Gun_Turret_/Textures/MG_turret_portable_arma_Normal
+[2025.10.29-23.09.53:155][492]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/MG_turret_portable_arma_NormalDC63FAD64BF17F5D8E01EEB25CE5250B.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Fab/Fixed_Machine_Gun_Turret_/Textures/MG_turret_portable_arma_Normal.uasset'
+[2025.10.29-23.09.53:158][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Fixed_Machine_Gun_Turret__00/Textures/MG_turret_portable_arma_Normal] ([1] browsable assets)...
+[2025.10.29-23.09.53:158][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Fixed_Machine_Gun_Turret__00/Textures/MG_turret_portable_arma_Normal]
+[2025.10.29-23.09.53:252][492]LogSavePackage: Moving output files for package: /Game/Fab/Fixed_Machine_Gun_Turret__00/Textures/MG_turret_portable_arma_Normal
+[2025.10.29-23.09.53:252][492]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/MG_turret_portable_arma_Normal586336AA4AAB67328A0ACEBCE350877A.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Fab/Fixed_Machine_Gun_Turret__00/Textures/MG_turret_portable_arma_Normal.uasset'
+[2025.10.29-23.09.53:255][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Fixed_Machine_Gun_Turret__01/Textures/MG_turret_portable_arma_Normal] ([1] browsable assets)...
+[2025.10.29-23.09.53:255][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Fixed_Machine_Gun_Turret__01/Textures/MG_turret_portable_arma_Normal]
+[2025.10.29-23.09.53:355][492]LogSavePackage: Moving output files for package: /Game/Fab/Fixed_Machine_Gun_Turret__01/Textures/MG_turret_portable_arma_Normal
+[2025.10.29-23.09.53:355][492]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/MG_turret_portable_arma_Normal97AFDFF1431C7C7BE97E22A04885F02D.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Fab/Fixed_Machine_Gun_Turret__01/Textures/MG_turret_portable_arma_Normal.uasset'
+[2025.10.29-23.09.53:358][492]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/My_Assets/NewBlueprint] ([2] browsable assets)...
+[2025.10.29-23.09.53:379][492]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/My_Assets/NewBlueprint.NewBlueprint]
+[2025.10.29-23.09.53:379][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/My_Assets/NewBlueprint]
+[2025.10.29-23.09.53:417][492]LogSavePackage: Moving output files for package: /Game/My_Assets/NewBlueprint
+[2025.10.29-23.09.53:417][492]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/NewBlueprintF09FCE6247379C836A81639204B90427.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/My_Assets/NewBlueprint.uasset'
+[2025.10.29-23.09.53:443][492]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/4/G0/1DU96WKWSQNV76OT98VOK0
+[2025.10.29-23.09.53:443][492]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/1DU96WKWSQNV76OT98VOK0188C550040366152352C83BB7E8B63BE.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/4/G0/1DU96WKWSQNV76OT98VOK0.uasset'
+[2025.10.29-23.09.53:481][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Fixed_Machine_Gun_Turret_/Stand] ([1] browsable assets)...
+[2025.10.29-23.09.53:481][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Fixed_Machine_Gun_Turret_/Stand]
+[2025.10.29-23.09.53:511][492]LogSavePackage: Moving output files for package: /Game/Fab/Fixed_Machine_Gun_Turret_/Stand
+[2025.10.29-23.09.53:511][492]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/Stand82FE87F94144C80006F7AAA9C9067444.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Fab/Fixed_Machine_Gun_Turret_/Stand.uasset'
+[2025.10.29-23.09.53:514][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Fixed_Machine_Gun_Turret__00/Stand] ([1] browsable assets)...
+[2025.10.29-23.09.53:514][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Fixed_Machine_Gun_Turret__00/Stand]
+[2025.10.29-23.09.53:542][492]LogSavePackage: Moving output files for package: /Game/Fab/Fixed_Machine_Gun_Turret__00/Stand
+[2025.10.29-23.09.53:542][492]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/Stand468E60154B2758DE0971E388124B3DC3.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Fab/Fixed_Machine_Gun_Turret__00/Stand.uasset'
+[2025.10.29-23.09.53:552][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Fixed_Machine_Gun_Turret__01/Stand] ([1] browsable assets)...
+[2025.10.29-23.09.53:552][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Fixed_Machine_Gun_Turret__01/Stand]
+[2025.10.29-23.09.53:579][492]LogSavePackage: Moving output files for package: /Game/Fab/Fixed_Machine_Gun_Turret__01/Stand
+[2025.10.29-23.09.53:579][492]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/StandD21A1BE546C4CDB2878A2096F66C0A65.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Fab/Fixed_Machine_Gun_Turret__01/Stand.uasset'
+[2025.10.29-23.09.53:581][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Fixed_Machine_Gun_Turret_/Swivel] ([1] browsable assets)...
+[2025.10.29-23.09.53:581][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Fixed_Machine_Gun_Turret_/Swivel]
+[2025.10.29-23.09.53:600][492]LogSavePackage: Moving output files for package: /Game/Fab/Fixed_Machine_Gun_Turret_/Swivel
+[2025.10.29-23.09.53:601][492]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/Swivel7EB94ACF4AD55BF60974E78DB26535E0.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Fab/Fixed_Machine_Gun_Turret_/Swivel.uasset'
+[2025.10.29-23.09.53:603][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Fixed_Machine_Gun_Turret__00/Swivel] ([1] browsable assets)...
+[2025.10.29-23.09.53:603][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Fixed_Machine_Gun_Turret__00/Swivel]
+[2025.10.29-23.09.53:620][492]LogSavePackage: Moving output files for package: /Game/Fab/Fixed_Machine_Gun_Turret__00/Swivel
+[2025.10.29-23.09.53:620][492]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/SwivelC47AC89A4000FEB5B52C7DB7FC8D0387.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Fab/Fixed_Machine_Gun_Turret__00/Swivel.uasset'
+[2025.10.29-23.09.53:623][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Fixed_Machine_Gun_Turret__01/Swivel] ([1] browsable assets)...
+[2025.10.29-23.09.53:623][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Fixed_Machine_Gun_Turret__01/Swivel]
+[2025.10.29-23.09.53:640][492]LogSavePackage: Moving output files for package: /Game/Fab/Fixed_Machine_Gun_Turret__01/Swivel
+[2025.10.29-23.09.53:640][492]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/SwivelBB887BA34C6DB27A9ACEFD9EB183F2D4.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Fab/Fixed_Machine_Gun_Turret__01/Swivel.uasset'
+[2025.10.29-23.09.53:647][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Fixed_Machine_Gun_Turret_/arma] ([1] browsable assets)...
+[2025.10.29-23.09.53:647][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Fixed_Machine_Gun_Turret_/arma]
+[2025.10.29-23.09.53:671][492]LogSavePackage: Moving output files for package: /Game/Fab/Fixed_Machine_Gun_Turret_/arma
+[2025.10.29-23.09.53:671][492]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/armaD861160348626923EA01BD81FA1175AD.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Fab/Fixed_Machine_Gun_Turret_/arma.uasset'
+[2025.10.29-23.09.53:677][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Fixed_Machine_Gun_Turret__00/arma] ([1] browsable assets)...
+[2025.10.29-23.09.53:677][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Fixed_Machine_Gun_Turret__00/arma]
+[2025.10.29-23.09.53:698][492]LogSavePackage: Moving output files for package: /Game/Fab/Fixed_Machine_Gun_Turret__00/arma
+[2025.10.29-23.09.53:698][492]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/arma55F9393A4311DC9C417D5AA116ADC4F7.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Fab/Fixed_Machine_Gun_Turret__00/arma.uasset'
+[2025.10.29-23.09.53:702][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Fixed_Machine_Gun_Turret__01/arma] ([1] browsable assets)...
+[2025.10.29-23.09.53:702][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Fixed_Machine_Gun_Turret__01/arma]
+[2025.10.29-23.09.53:722][492]LogSavePackage: Moving output files for package: /Game/Fab/Fixed_Machine_Gun_Turret__01/arma
+[2025.10.29-23.09.53:722][492]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/arma61C5F88B44FC035E58D821BA73F93C41.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Fab/Fixed_Machine_Gun_Turret__01/arma.uasset'
+[2025.10.29-23.09.53:726][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Fixed_Machine_Gun_Turret_/cano] ([1] browsable assets)...
+[2025.10.29-23.09.53:726][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Fixed_Machine_Gun_Turret_/cano]
+[2025.10.29-23.09.53:744][492]LogSavePackage: Moving output files for package: /Game/Fab/Fixed_Machine_Gun_Turret_/cano
+[2025.10.29-23.09.53:744][492]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/cano3AAA2BF84DCDB6C70DA871839D94E793.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Fab/Fixed_Machine_Gun_Turret_/cano.uasset'
+[2025.10.29-23.09.53:751][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Fixed_Machine_Gun_Turret__00/cano] ([1] browsable assets)...
+[2025.10.29-23.09.53:751][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Fixed_Machine_Gun_Turret__00/cano]
+[2025.10.29-23.09.53:770][492]LogSavePackage: Moving output files for package: /Game/Fab/Fixed_Machine_Gun_Turret__00/cano
+[2025.10.29-23.09.53:770][492]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/cano6F37E79641377C3E160AB288DA0AB1B0.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Fab/Fixed_Machine_Gun_Turret__00/cano.uasset'
+[2025.10.29-23.09.53:772][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Fixed_Machine_Gun_Turret__01/cano] ([1] browsable assets)...
+[2025.10.29-23.09.53:772][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Fixed_Machine_Gun_Turret__01/cano]
+[2025.10.29-23.09.53:791][492]LogSavePackage: Moving output files for package: /Game/Fab/Fixed_Machine_Gun_Turret__01/cano
+[2025.10.29-23.09.53:791][492]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/cano17083D5D4623637E469BD0B9A906CEF5.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Fab/Fixed_Machine_Gun_Turret__01/cano.uasset'
+[2025.10.29-23.09.53:837][492]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.18 sec (total: 13.3 sec)
+[2025.10.29-23.09.54:009][492]LogStall: Shutdown...
+[2025.10.29-23.09.54:010][492]LogStall: Shutdown complete.
+[2025.10.29-23.09.54:333][492]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2025.10.29-23.09.54:334][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-23.09.55:462][492]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.29-23.09.55:462][492]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2025.10.29-23.09.55:462][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-23.09.55:963][492]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.29-23.09.55:963][492]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2025.10.29-23.09.55:963][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-23.09.56:751][492]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.29-23.09.56:751][492]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2025.10.29-23.09.56:751][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-23.09.58:699][492]LogSlate: Window 'CarGameProject - Unreal Editor' being destroyed
+[2025.10.29-23.09.58:705][492]LogWindowsTextInputMethodSystem: Activated input method: English (Canada) - (Keyboard).
+[2025.10.29-23.10.15:787][492]LogContentValidation: Display: Starting to validate 44 assets
+[2025.10.29-23.10.15:790][492]LogContentValidation: Enabled validators:
+[2025.10.29-23.10.15:790][492]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.29-23.10.15:791][492]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.29-23.10.15:791][492]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.29-23.10.15:791][492]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.29-23.10.15:791][492]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.29-23.10.15:791][492]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.29-23.10.15:796][492]AssetCheck: /Game/Fab/Fixed_Machine_Gun_Turret_/Materials/2_2 Validating asset
+[2025.10.29-23.10.15:797][492]AssetCheck: /Game/Fab/Fixed_Machine_Gun_Turret__00/Materials/2_2 Validating asset
+[2025.10.29-23.10.15:797][492]AssetCheck: /Game/Fab/Fixed_Machine_Gun_Turret__01/Materials/2_2 Validating asset
+[2025.10.29-23.10.15:797][492]AssetCheck: /Game/Fab/Fixed_Machine_Gun_Turret_/Additional_Textures/2_AlbedoTransparency Validating asset
+[2025.10.29-23.10.15:797][492]AssetCheck: /Game/Fab/Fixed_Machine_Gun_Turret__00/Additional_Textures/2_AlbedoTransparency Validating asset
+[2025.10.29-23.10.15:797][492]AssetCheck: /Game/Fab/Fixed_Machine_Gun_Turret__01/Additional_Textures/2_AlbedoTransparency Validating asset
+[2025.10.29-23.10.15:797][492]AssetCheck: /Game/Fab/Fixed_Machine_Gun_Turret_/Additional_Textures/2_MetallicSmoothness Validating asset
+[2025.10.29-23.10.15:797][492]AssetCheck: /Game/Fab/Fixed_Machine_Gun_Turret__00/Additional_Textures/2_MetallicSmoothness Validating asset
+[2025.10.29-23.10.15:797][492]AssetCheck: /Game/Fab/Fixed_Machine_Gun_Turret__01/Additional_Textures/2_MetallicSmoothness Validating asset
+[2025.10.29-23.10.15:797][492]AssetCheck: /Game/Fab/Fixed_Machine_Gun_Turret_/Textures/2_Normal Validating asset
+[2025.10.29-23.10.15:798][492]AssetCheck: /Game/Fab/Fixed_Machine_Gun_Turret__00/Textures/2_Normal Validating asset
+[2025.10.29-23.10.15:798][492]AssetCheck: /Game/Fab/Fixed_Machine_Gun_Turret__01/Textures/2_Normal Validating asset
+[2025.10.29-23.10.15:798][492]AssetCheck: /Game/My_Assets/BP_Bullet Validating asset
+[2025.10.29-23.10.15:799][492]AssetCheck: /Game/My_Assets/BP_Turret Validating asset
+[2025.10.29-23.10.15:799][492]AssetCheck: /Game/My_Assets/BP_TurretBullet Validating asset
+[2025.10.29-23.10.15:801][492]AssetCheck: /Game/Fab/Fixed_Machine_Gun_Turret_/MGMain Validating asset
+[2025.10.29-23.10.15:801][492]AssetCheck: /Game/Fab/Fixed_Machine_Gun_Turret__00/MGMain Validating asset
+[2025.10.29-23.10.15:801][492]AssetCheck: /Game/Fab/Fixed_Machine_Gun_Turret__01/MGMain Validating asset
+[2025.10.29-23.10.15:801][492]AssetCheck: /Game/Fab/Fixed_Machine_Gun_Turret_/Materials/MG_turret_portable_arma Validating asset
+[2025.10.29-23.10.15:801][492]AssetCheck: /Game/Fab/Fixed_Machine_Gun_Turret__00/Materials/MG_turret_portable_arma Validating asset
+[2025.10.29-23.10.15:802][492]AssetCheck: /Game/Fab/Fixed_Machine_Gun_Turret__01/Materials/MG_turret_portable_arma Validating asset
+[2025.10.29-23.10.15:802][492]AssetCheck: /Game/Fab/Fixed_Machine_Gun_Turret_/Additional_Textures/MG_turret_portable_arma_AlbedoTransparency Validating asset
+[2025.10.29-23.10.15:802][492]AssetCheck: /Game/Fab/Fixed_Machine_Gun_Turret__00/Additional_Textures/MG_turret_portable_arma_AlbedoTransparency Validating asset
+[2025.10.29-23.10.15:802][492]AssetCheck: /Game/Fab/Fixed_Machine_Gun_Turret__01/Additional_Textures/MG_turret_portable_arma_AlbedoTransparency Validating asset
+[2025.10.29-23.10.15:802][492]AssetCheck: /Game/Fab/Fixed_Machine_Gun_Turret_/Additional_Textures/MG_turret_portable_arma_MetallicSmoothness Validating asset
+[2025.10.29-23.10.15:802][492]AssetCheck: /Game/Fab/Fixed_Machine_Gun_Turret__00/Additional_Textures/MG_turret_portable_arma_MetallicSmoothness Validating asset
+[2025.10.29-23.10.15:802][492]AssetCheck: /Game/Fab/Fixed_Machine_Gun_Turret__01/Additional_Textures/MG_turret_portable_arma_MetallicSmoothness Validating asset
+[2025.10.29-23.10.15:802][492]AssetCheck: /Game/Fab/Fixed_Machine_Gun_Turret_/Textures/MG_turret_portable_arma_Normal Validating asset
+[2025.10.29-23.10.15:802][492]AssetCheck: /Game/Fab/Fixed_Machine_Gun_Turret__00/Textures/MG_turret_portable_arma_Normal Validating asset
+[2025.10.29-23.10.15:802][492]AssetCheck: /Game/Fab/Fixed_Machine_Gun_Turret__01/Textures/MG_turret_portable_arma_Normal Validating asset
+[2025.10.29-23.10.15:802][492]AssetCheck: /Game/My_Assets/NewBlueprint Validating asset
+[2025.10.29-23.10.15:803][492]AssetCheck: /Game/VehicleTemplate/Maps/Lvl_VehicleBasic Validating asset
+[2025.10.29-23.10.15:803][492]AssetCheck: /Game/Fab/Fixed_Machine_Gun_Turret_/Stand Validating asset
+[2025.10.29-23.10.15:803][492]AssetCheck: /Game/Fab/Fixed_Machine_Gun_Turret__00/Stand Validating asset
+[2025.10.29-23.10.15:803][492]AssetCheck: /Game/Fab/Fixed_Machine_Gun_Turret__01/Stand Validating asset
+[2025.10.29-23.10.15:803][492]AssetCheck: /Game/Fab/Fixed_Machine_Gun_Turret_/Swivel Validating asset
+[2025.10.29-23.10.15:803][492]AssetCheck: /Game/Fab/Fixed_Machine_Gun_Turret__00/Swivel Validating asset
+[2025.10.29-23.10.15:803][492]AssetCheck: /Game/Fab/Fixed_Machine_Gun_Turret__01/Swivel Validating asset
+[2025.10.29-23.10.15:803][492]AssetCheck: /Game/Fab/Fixed_Machine_Gun_Turret_/arma Validating asset
+[2025.10.29-23.10.15:803][492]AssetCheck: /Game/Fab/Fixed_Machine_Gun_Turret__00/arma Validating asset
+[2025.10.29-23.10.15:803][492]AssetCheck: /Game/Fab/Fixed_Machine_Gun_Turret__01/arma Validating asset
+[2025.10.29-23.10.15:803][492]AssetCheck: /Game/Fab/Fixed_Machine_Gun_Turret_/cano Validating asset
+[2025.10.29-23.10.15:803][492]AssetCheck: /Game/Fab/Fixed_Machine_Gun_Turret__00/cano Validating asset
+[2025.10.29-23.10.15:804][492]AssetCheck: /Game/Fab/Fixed_Machine_Gun_Turret__01/cano Validating asset
+[2025.10.29-23.10.18:122][492]LogUObjectHash: Compacting FUObjectHashTables data took  48.14ms
+[2025.10.29-23.10.18:368][492]Cmd: QUIT_EDITOR
+[2025.10.29-23.10.18:369][492]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.10.29-23.10.18:381][492]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.29-23.10.18:445][493]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.10.29-23.10.18:455][493]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.10.29-23.10.18:457][493]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.10.29-23.10.18:504][493]LogWorld: UWorld::CleanupWorld for Lvl_VehicleBasic, bSessionEnded=true, bCleanupResources=true
+[2025.10.29-23.10.18:514][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-23.10.18:515][493]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/VehicleTemplate/Maps/Lvl_VehicleBasic.Lvl_VehicleBasic
+[2025.10.29-23.10.18:633][493]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.10.29-23.10.18:638][493]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.10.29-23.10.18:662][493]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.10.29-23.10.20:125][493]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2025.10.29-23.10.20:127][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-23.10.20:135][493]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2025.10.29-23.10.20:135][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-23.10.20:144][493]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2025.10.29-23.10.20:147][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-23.10.20:156][493]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2025.10.29-23.10.20:157][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-23.10.20:167][493]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.10.29-23.10.20:168][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-23.10.20:177][493]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.10.29-23.10.20:187][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-23.10.20:196][493]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.10.29-23.10.20:198][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-23.10.20:207][493]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.10.29-23.10.20:209][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-23.10.20:217][493]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.10.29-23.10.20:217][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-23.10.20:226][493]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.10.29-23.10.20:226][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-23.10.20:235][493]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.10.29-23.10.20:235][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-23.10.20:245][493]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.10.29-23.10.20:247][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-23.10.20:253][493]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.10.29-23.10.20:253][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-23.10.20:260][493]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.10.29-23.10.20:260][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-23.10.20:285][493]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2025.10.29-23.10.20:286][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-23.10.20:299][493]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2025.10.29-23.10.20:299][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-23.10.20:345][493]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.10.29-23.10.20:352][493]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.10.29-23.10.20:387][493]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.10.29-23.10.21:674][493]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.10.29-23.10.21:674][493]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.10.29-23.10.21:675][493]LogAudio: Display: Audio Device unregistered from world 'Lvl_VehicleBasic'.
+[2025.10.29-23.10.21:679][493]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.10.29-23.10.21:687][493]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.10.29-23.10.21:787][493]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.10.29-23.10.21:893][493]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.10.29-23.10.21:894][493]LogAudio: Display: Audio Device Manager Shutdown
+[2025.10.29-23.10.21:946][493]LogExit: Preparing to exit.
+[2025.10.29-23.10.22:347][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2025.10.29-23.10.22:372][493]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.29-23.10.22:374][493]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.29-23.10.22:386][493]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.29-23.10.22:388][493]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.29-23.10.22:388][493]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.29-23.10.22:388][493]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.29-23.10.22:388][493]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.29-23.10.22:388][493]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.29-23.10.22:388][493]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.29-23.10.22:388][493]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.29-23.10.22:388][493]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.29-23.10.22:388][493]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.29-23.10.22:388][493]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.29-23.10.22:388][493]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.29-23.10.22:388][493]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.29-23.10.22:388][493]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.29-23.10.22:388][493]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.29-23.10.22:388][493]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.29-23.10.22:389][493]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.29-23.10.22:389][493]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.29-23.10.22:389][493]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.29-23.10.24:982][493]LogEditorDataStorage: Deinitializing
+[2025.10.29-23.10.26:471][493]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.10.29-23.10.27:777][493]LogExit: Editor shut down
+[2025.10.29-23.10.27:863][493]LogExit: Transaction tracking system shut down
