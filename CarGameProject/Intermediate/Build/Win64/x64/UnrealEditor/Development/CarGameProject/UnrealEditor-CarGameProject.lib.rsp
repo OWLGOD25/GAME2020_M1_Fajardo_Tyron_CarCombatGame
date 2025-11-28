@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CarGameProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Intermediate/Build/Win64/x64/CarGameProjectEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"C:/Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/CarGameProject/Module.CarGameProject.gen.cpp.obj"
+"C:/Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/CarGameProject/CarGameProject.cpp.obj"
+"C:/Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/CarGameProject/TurretBulletClass.cpp.obj"
+"C:/Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/CarGameProject/PerModuleInline.gen.cpp.obj"
+"C:/Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/CarGameProject/Default.rc2.res"
+/OUT:"C:/Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/CarGameProject/UnrealEditor-CarGameProject.lib"

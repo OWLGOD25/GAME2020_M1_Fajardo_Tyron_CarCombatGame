@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CarGameProject.gen.cpp.obj": [
+			"CarGameProject.init.gen.cpp.obj",
+			"TurretBulletClass.gen.cpp.obj"
+		]
+	}
+}
