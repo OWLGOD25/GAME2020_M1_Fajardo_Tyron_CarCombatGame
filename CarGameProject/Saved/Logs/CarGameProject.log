@@ -1148,3 +1148,204 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.29-07.27.12:633][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
 [2025.11.29-07.27.12:646][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
 [2025.11.29-07.27.13:625][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2025.11.29-07.27.31:642][  0]LogSlate: Using FreeType 2.10.0
+[2025.11.29-07.27.31:679][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2025.11.29-07.27.31:700][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png' error.
+[2025.11.29-07.27.31:700][  0]LogSlate: Could not load file for Slate resource: [../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png] file: [../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png]
+[2025.11.29-07.27.31:700][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png' error.
+[2025.11.29-07.27.31:700][  0]LogSlate: Could not load file for Slate resource: [../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png] file: [../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png]
+[2025.11.29-07.27.31:777][  0]LogAssetRegistry: FAssetRegistry took 0.0132 seconds to start up
+[2025.11.29-07.27.31:790][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2025.11.29-07.27.31:849][  0]LogAssetRegistry: Display: AssetDataGatherer spent 0.001s loading caches ../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Intermediate/CachedAssetRegistry_*.bin.
+[2025.11.29-07.27.32:571][  0]LogDeviceProfileManager: Display: Deviceprofile LinuxArm64Editor not found.
+[2025.11.29-07.27.32:572][  0]LogDeviceProfileManager: Display: Deviceprofile LinuxArm64 not found.
+[2025.11.29-07.27.32:631][  0]LogDeviceProfileManager: Active device profile: [0000022F79FF4880][0000022F79ADA000 66] WindowsEditor
+[2025.11.29-07.27.32:631][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2025.11.29-07.27.32:701][  0]LogStreaming: Display: FlushAsyncLoading(1): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.29-07.27.32:743][  0]LogTextureEncodingSettings: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2025.11.29-07.27.32:743][  0]LogTextureEncodingSettings: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2025.11.29-07.27.32:743][  0]LogTextureEncodingSettings: Display: Shared linear texture encoding: Disabled
+[2025.11.29-07.27.32:827][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, MinAllowed_Sdk=10.0.19041.0, MaxAllowed_Sdk=10.9.99999.0, Current_Sdk=10.0.22621.0, Allowed_AutoSdk=10.0.22621.0, Current_AutoSdk=, Flags="InstalledSdk_ValidVersionExists, Sdk_HasBestVersion")
+[2025.11.29-07.27.32:833][  0]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="C:/Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/CarGameProject.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Intermediate/TurnkeyReport_1.log" -log="C:/Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Intermediate/TurnkeyLog_1.log" -project="C:/Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/CarGameProject.uproject"  -Device=Win64@THEGOLDENRULE'
+[2025.11.29-07.27.32:833][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.6/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/CarGameProject.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Intermediate/TurnkeyReport_1.log" -log="C:/Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Intermediate/TurnkeyLog_1.log" -project="C:/Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/CarGameProject.uproject"  -Device=Win64@THEGOLDENRULE" -nocompile -nocompileuat ]
+[2025.11.29-07.27.32:979][  0]LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.11.29-07.27.32:992][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultTextMaterialOpaque is adding a dynamic import to package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness because of a recursive sync load
+[2025.11.29-07.27.32:992][  0]LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness (state: DeferredPostLoad) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.11.29-07.27.32:993][  0]LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.11.29-07.27.33:005][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultTextMaterialOpaque is adding a dynamic import to package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec because of a recursive sync load
+[2025.11.29-07.27.33:005][  0]LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec (state: DeferredPostLoad) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.11.29-07.27.33:006][  0]LogStreaming: Display: Flushing package /Engine/EngineMaterials/WorldGridMaterial (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.11.29-07.27.33:063][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultTextMaterialOpaque is adding a dynamic import to package /Engine/EngineMaterials/T_Default_Material_Grid_M because of a recursive sync load
+[2025.11.29-07.27.33:063][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultTextMaterialOpaque is adding a dynamic import to package /Engine/EngineMaterials/T_Default_Material_Grid_N because of a recursive sync load
+[2025.11.29-07.27.33:067][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultTextMaterialOpaque is adding a dynamic import to package /Engine/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade because of a recursive sync load
+[2025.11.29-07.27.33:069][  0]LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/WorldGridMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.11.29-07.27.33:097][  0]LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.11.29-07.27.33:112][  0]LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultPostProcessMaterial (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.11.29-07.27.33:139][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultLightFunctionMaterial is adding a dynamic import to package /Engine/EngineMaterials/DefaultDiffuse because of a recursive sync load
+[2025.11.29-07.27.33:139][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultLightFunctionMaterial is adding a dynamic import to package /Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components because of a recursive sync load
+[2025.11.29-07.27.33:144][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultLightFunctionMaterial is adding a dynamic import to package /Engine/EngineMaterials/DefaultPostProcessMaterial because of a recursive sync load
+[2025.11.29-07.27.33:144][  0]LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultPostProcessMaterial (state: DeferredPostLoad) recursively from another package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.11.29-07.27.33:231][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultDeferredDecalMaterial is adding a dynamic import to package /Engine/EngineMaterials/DefaultLightFunctionMaterial because of a recursive sync load
+[2025.11.29-07.27.33:231][  0]LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: DeferredPostLoad) recursively from another package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.11.29-07.27.33:266][  0]LogStreaming: Display: Package /Engine/EngineMaterials/WorldGridMaterial is adding a dynamic import to package /Engine/EngineMaterials/DefaultDeferredDecalMaterial because of a recursive sync load
+[2025.11.29-07.27.33:266][  0]LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: DeferredPostLoad) recursively from another package /Engine/EngineMaterials/WorldGridMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.11.29-07.27.33:298][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultTextMaterialOpaque is adding a dynamic import to package /Engine/EngineMaterials/WorldGridMaterial because of a recursive sync load
+[2025.11.29-07.27.33:298][  0]LogStreaming: Display: Flushing package /Engine/EngineMaterials/WorldGridMaterial (state: DeferredPostLoad) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.11.29-07.27.33:924][  0]LogMeshReduction: Display: Using QuadricMeshReduction for automatic static mesh reduction
+[2025.11.29-07.27.33:924][  0]LogMeshReduction: Display: Using SkeletalMeshReduction for automatic skeletal mesh reduction
+[2025.11.29-07.27.33:924][  0]LogMeshReduction: Display: Using ProxyLODMeshReduction for automatic mesh merging
+[2025.11.29-07.27.33:924][  0]LogMeshReduction: Display: No distributed automatic mesh merging module available
+[2025.11.29-07.27.33:924][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2025.11.29-07.27.34:702][  0]LogTurnkeySupport: Completed device detection: Code = 0
+[2025.11.29-07.27.36:734][  0]LogConfig: Applying CVar settings from Section [/Script/CQTest.CQTestSettings] File [Engine]
+[2025.11.29-07.27.36:954][  0]LogVirtualization: Display: VirtualizationSystem name found in ini file: None
+[2025.11.29-07.27.36:954][  0]LogVirtualization: Display: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2025.11.29-07.27.36:956][  0]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: NetActorFactory name: NetActorFactory id: 0
+[2025.11.29-07.27.36:956][  0]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: NetSubObjectFactory name: NetSubObjectFactory id: 1
+[2025.11.29-07.27.36:970][  0]LogLiveCoding: Display: Starting LiveCoding
+[2025.11.29-07.27.36:970][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2025.11.29-07.27.36:971][  0]LogLiveCoding: Display: First instance in process group "UE_CarGameProject_0xa3f34d4a", spawning console
+[2025.11.29-07.27.36:989][  0]LogLiveCoding: Display: Waiting for server
+[2025.11.29-07.27.37:049][  0]LogSlate: Border
+[2025.11.29-07.27.37:049][  0]LogSlate: BreadcrumbButton
+[2025.11.29-07.27.37:049][  0]LogSlate: Brushes.Title
+[2025.11.29-07.27.37:049][  0]LogSlate: ColorPicker.ColorThemes
+[2025.11.29-07.27.37:049][  0]LogSlate: Default
+[2025.11.29-07.27.37:049][  0]LogSlate: Icons.Save
+[2025.11.29-07.27.37:049][  0]LogSlate: Icons.Toolbar.Settings
+[2025.11.29-07.27.37:049][  0]LogSlate: ListView
+[2025.11.29-07.27.37:049][  0]LogSlate: SoftwareCursor_CardinalCross
+[2025.11.29-07.27.37:049][  0]LogSlate: SoftwareCursor_Grab
+[2025.11.29-07.27.37:049][  0]LogSlate: TableView.DarkRow
+[2025.11.29-07.27.37:049][  0]LogSlate: TableView.Row
+[2025.11.29-07.27.37:049][  0]LogSlate: TreeView
+[2025.11.29-07.27.37:415][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize started...
+[2025.11.29-07.27.37:439][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize took 23.931 ms
+[2025.11.29-07.27.37:522][  0]LogInit: XR: Instanced Stereo Rendering is Disabled
+[2025.11.29-07.27.37:522][  0]LogInit: XR: MultiViewport is Disabled
+[2025.11.29-07.27.37:522][  0]LogInit: XR: Mobile Multiview is Disabled
+[2025.11.29-07.27.37:547][  0]LogTurnkeySupport: Turnkey Device: Win64@TheGoldenRule: (Name=TheGoldenRule, Type=Computer, Status=Valid, MinAllowed=10.0.19041.0, MaxAllowed=, Current=10.0.26200.0, Flags="Device_InstallSoftwareValid")
+[2025.11.29-07.27.37:629][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2025.11.29-07.27.38:178][  0]LogNNERuntimeORT: Available graphics and compute adapters:
+[2025.11.29-07.27.38:178][  0]LogNNERuntimeORT: Selecting NPU adapter: AMD Radeon(TM) Graphics
+[2025.11.29-07.27.38:402][  0]LogNNERuntimeORT: MakeRuntimeORTDml:
+[2025.11.29-07.27.38:403][  0]LogNNERuntimeORT:   DirectML:  yes
+[2025.11.29-07.27.38:403][  0]LogNNERuntimeORT:   RHI D3D12: yes
+[2025.11.29-07.27.38:403][  0]LogNNERuntimeORT:   D3D12:     yes
+[2025.11.29-07.27.38:403][  0]LogNNERuntimeORT:   NPU:       yes
+[2025.11.29-07.27.38:403][  0]LogNNERuntimeORT: Interface availability:
+[2025.11.29-07.27.38:403][  0]LogNNERuntimeORT:   GPU: yes
+[2025.11.29-07.27.38:403][  0]LogNNERuntimeORT:   RDG: yes
+[2025.11.29-07.27.38:403][  0]LogNNERuntimeORT:   NPU: yes
+[2025.11.29-07.27.38:617][  0]LogNNERuntimeORT: Available graphics and compute adapters:
+[2025.11.29-07.27.38:617][  0]LogNNERuntimeORT: Selecting NPU adapter: AMD Radeon(TM) Graphics
+[2025.11.29-07.27.39:645][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2025.11.29-07.27.40:056][  0]LogUdpMessaging: Display: Work queue size set to 1024.
+[2025.11.29-07.27.40:058][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2025.11.29-07.27.40:060][  0]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:64785'.
+[2025.11.29-07.27.40:067][  0]LogUdpMessaging: Display: Added local interface '192.168.40.7' to multicast group '230.0.0.1:6666'
+[2025.11.29-07.27.40:071][  0]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2025.11.29-07.27.40:079][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2025.11.29-07.27.40:403][  0]LogMetaSound: Display: MetaSound Page Target Initialized to 'Default'
+[2025.11.29-07.27.40:404][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2025.11.29-07.27.40:439][  0]LogMetaSound: MetaSound Engine Initialized
+[2025.11.29-07.27.41:046][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: EDF33B09E9D04B06800000000000BB00 | Instance: 9E9C45BB4E41E6C4D40B75AF0A424811 (THEGOLDENRULE-10088).
+[2025.11.29-07.27.41:534][  0]LogChaosVDEditor: [FChaosVDExtensionsManager::RegisterExtension] Registering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.11.29-07.27.41:534][  0]LogChaosVDEditor: [FChaosVDExtensionsManager::RegisterExtension] Registering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.11.29-07.27.41:596][  0]LogTimingProfiler: Initialize
+[2025.11.29-07.27.41:599][  0]LogTimingProfiler: OnSessionChanged
+[2025.11.29-07.27.41:599][  0]LoadingProfiler: Initialize
+[2025.11.29-07.27.41:599][  0]LoadingProfiler: OnSessionChanged
+[2025.11.29-07.27.41:602][  0]LogNetworkingProfiler: Initialize
+[2025.11.29-07.27.41:604][  0]LogNetworkingProfiler: OnSessionChanged
+[2025.11.29-07.27.41:604][  0]LogMemoryProfiler: Initialize
+[2025.11.29-07.27.41:604][  0]LogMemoryProfiler: OnSessionChanged
+[2025.11.29-07.27.41:749][  0]SourceControl: Revision control is disabled
+[2025.11.29-07.27.41:763][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Common/ButtonHoverHint.png' error.
+[2025.11.29-07.27.41:763][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Icons/doc_16x.png' error.
+[2025.11.29-07.27.41:763][  0]LogSlate: Could not load file for Slate resource: [../../../Engine/Content/Slate/Icons/doc_16x.png] file: [../../../Engine/Content/Slate/Icons/doc_16x.png]
+[2025.11.29-07.27.41:763][  0]LogSlate: Could not load file for Slate resource: [../../../Engine/Content/Slate/Common/ButtonHoverHint.png] file: [../../../Engine/Content/Slate/Common/ButtonHoverHint.png]
+[2025.11.29-07.27.41:781][  0]SourceControl: Revision control is disabled
+[2025.11.29-07.27.42:594][  0]LogUsd: Attempted to call a static function from UnrealUSDWrapper before the module is actually loaded! The module will be loaded now, but not all static functions have this check. In general, please ensure an Unreal module is loaded before calling any of its static functions, for example by calling 'FModuleManager::LoadModuleChecked<IUnrealUSDWrapperModule>("UnrealUSDWrapper");' beforehand.
+[2025.11.29-07.27.43:318][  0]LogConfig: Applying CVar settings from Section [/Script/NNEDenoiser.NNEDenoiserSettings] File [Engine]
+[2025.11.29-07.27.44:385][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2025.11.29-07.27.44:404][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.11.29-07.27.44:404][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.11.29-07.27.44:829][  0]LogCollectionManager: Loaded 0 collections in 0.006475 seconds
+[2025.11.29-07.27.44:833][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/Collections/' took 0.00s
+[2025.11.29-07.27.44:839][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Developers/tyron/Collections/' took 0.00s
+[2025.11.29-07.27.44:843][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Collections/' took 0.00s
+[2025.11.29-07.27.45:069][  0]LogFabLauncher: Display: FabLauncher (version 0.4.2) active
+[2025.11.29-07.27.45:200][  0]LogUObjectArray: 43457 objects as part of root set at end of initial load.
+[2025.11.29-07.27.45:200][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2025.11.29-07.27.45:477][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/Engine.AnimInstanceProxy. Time(ms): 2.0
+[2025.11.29-07.27.45:510][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/HairStrandsCore.GroomDataflowSettings. Time(ms): 1.2
+[2025.11.29-07.27.45:551][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/USDStageImporter.UsdStageImportContext. Time(ms): 1.1
+[2025.11.29-07.27.45:609][  0]LogEngine: Initializing Engine...
+[2025.11.29-07.27.46:293][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2025.11.29-07.27.46:296][  0]LogTedsSettings: UTedsSettingsEditorSubsystem::Initialize
+[2025.11.29-07.27.47:091][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.11.dll
+[2025.11.29-07.27.47:186][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.12.dll
+[2025.11.29-07.27.47:273][  0]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.11.29-07.27.47:395][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2025.11.29-07.27.47:396][  0]LogInit: Texture streaming: Enabled
+[2025.11.29-07.27.47:419][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::StartSession ( APIServer = https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data. AppVersion = 5.6.1-44394996+++UE5+Release-5.6 )
+[2025.11.29-07.27.47:434][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2025.11.29-07.27.47:451][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2025.11.29-07.27.47:464][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2025.11.29-07.27.47:465][  0]LogAudio: Display: Audio Device Manager Initialized
+[2025.11.29-07.27.47:466][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2025.11.29-07.27.47:468][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.29-07.27.47:468][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.29-07.27.47:468][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.29-07.27.47:468][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.29-07.27.47:468][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.29-07.27.47:468][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.29-07.27.47:468][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.29-07.27.47:468][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.29-07.27.47:469][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.29-07.27.47:471][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.29-07.27.47:471][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.29-07.27.47:491][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.29-07.27.47:593][  0]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Monster N-Lite 203 AirLinks)
+[2025.11.29-07.27.47:597][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.29-07.27.47:661][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.29-07.27.47:662][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.29-07.27.47:666][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.11.29-07.27.47:666][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.11.29-07.27.47:669][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.11.29-07.27.47:669][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2025.11.29-07.27.47:671][  0]LogInit: FAudioDevice initialized with ID 1.
+[2025.11.29-07.27.47:672][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2025.11.29-07.27.47:673][  0]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 1
+[2025.11.29-07.27.47:692][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2025.11.29-07.27.47:706][  0]LogInit: Undo buffer set to 256 MB
+[2025.11.29-07.27.47:708][  0]LogInit: Transaction tracking system initialized
+[2025.11.29-07.27.47:745][  0]LogSourceControl: Display: Uncontrolled Changelist persistency file loaded ../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.29-07.27.47:926][  0]LocalizationService: Localization service is disabled
+[2025.11.29-07.27.48:801][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/' took 0.03s
+[2025.11.29-07.27.49:091][  0]LogPython: Python enabled via CVar 'Engine.Python.IsEnabledByDefault'
+[2025.11.29-07.27.49:093][  0]LogPython: Using Python 3.11.8
+[2025.11.29-07.27.49:282][  0]LogPython: Display: No pip-enabled plugins with python dependencies found, skipping
+[2025.11.29-07.27.49:813][  0]LogRenderer: Requested compilation of Path Tracing RTPSOs (8 permutations).
+[2025.11.29-07.27.50:096][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2025.11.29-07.27.50:675][  0]LogEditorDataStorage: Initializing
+[2025.11.29-07.27.50:734][  0]LogEditorDataStorage: Initialized
+[2025.11.29-07.27.50:759][  0]LogAssetRegistry: Display: Triggering cache save on discovery complete
+[2025.11.29-07.27.50:760][  0]LogCore: Display: GameplayInsights module auto-connecting to local trace server...
+[2025.11.29-07.27.50:999][  0]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 1187.30 ms.
+[2025.11.29-07.27.51:018][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2025.11.29-07.27.51:029][  0]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 1217.70 ms.
+[2025.11.29-07.27.51:050][  0]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 1238.47 ms.
+[2025.11.29-07.27.51:056][  0]SourceControl: Revision control is disabled
+[2025.11.29-07.27.51:057][  0]LogUnrealEdMisc: Loading editor; pre map load, took 57.444
+[2025.11.29-07.27.51:061][  0]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 1249.23 ms.
+[2025.11.29-07.27.51:074][  0]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 1261.24 ms.
+[2025.11.29-07.27.51:087][  0]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 1273.37 ms.
+[2025.11.29-07.27.51:096][  0]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 1284.98 ms.
+[2025.11.29-07.27.51:103][  0]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 1292.35 ms.
+[2025.11.29-07.27.51:126][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.11.29-07.27.51:138][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.29-07.27.51:215][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.29-07.27.51:255][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.11.29-07.27.52:024][  0]LogAssetRegistry: Display: Asset registry cache written as 67.6 MiB to ../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Intermediate/CachedAssetRegistry_*.bin
