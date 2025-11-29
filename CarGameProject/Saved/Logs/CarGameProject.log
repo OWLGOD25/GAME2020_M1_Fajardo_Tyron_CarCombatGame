@@ -1349,3 +1349,81 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.29-07.27.51:215][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
 [2025.11.29-07.27.51:255][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
 [2025.11.29-07.27.52:024][  0]LogAssetRegistry: Display: Asset registry cache written as 67.6 MiB to ../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Intermediate/CachedAssetRegistry_*.bin
+[2025.11.29-07.27.53:114][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2025.11.29-07.27.53:114][  0]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.11.29-07.27.53:195][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.11.29-07.27.53:250][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.11.29-07.27.53:253][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.11.29-07.27.53:253][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.434ms to complete.
+[2025.11.29-07.27.53:340][  0]LogUnrealEdMisc: Total Editor Startup Time, took 59.727
+[2025.11.29-07.27.53:529][  0]LogPlacementMode: Display: The Asset Registry is not yet fully loaded so some placeable classes might be missing.
+[2025.11.29-07.27.54:167][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.29-07.27.54:324][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.29-07.27.54:452][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.29-07.27.54:576][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.29-07.27.55:053][  0]LogPakFile: Initializing PakPlatformFile
+[2025.11.29-07.27.55:071][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.6/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2025.11.29-07.27.55:073][  0]LogPakFile: Initializing PakPlatformFile
+[2025.11.29-07.27.55:087][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.6/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2025.11.29-07.27.55:087][  0]LogPakFile: Initializing PakPlatformFile
+[2025.11.29-07.27.55:100][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.6/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2025.11.29-07.27.55:100][  0]LogPakFile: Initializing PakPlatformFile
+[2025.11.29-07.27.55:117][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.6/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2025.11.29-07.27.55:119][  0]LogPakFile: Initializing PakPlatformFile
+[2025.11.29-07.27.55:132][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.6/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2025.11.29-07.27.55:133][  0]LogPakFile: Initializing PakPlatformFile
+[2025.11.29-07.27.55:145][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.6/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2025.11.29-07.27.55:146][  0]LogPakFile: Initializing PakPlatformFile
+[2025.11.29-07.27.55:159][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.6/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2025.11.29-07.27.55:160][  0]LogPakFile: Initializing PakPlatformFile
+[2025.11.29-07.27.55:171][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.6/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2025.11.29-07.27.55:172][  0]LogPakFile: Initializing PakPlatformFile
+[2025.11.29-07.27.55:184][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.6/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2025.11.29-07.27.55:184][  0]LogPakFile: Initializing PakPlatformFile
+[2025.11.29-07.27.55:199][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.6/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2025.11.29-07.27.56:541][  0]LogSlate: Took 0.011756 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.11.29-07.27.56:568][  0]LogSlate: Took 0.010133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.11.29-07.27.56:581][  0]LogSlate: Took 0.010756 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.11.29-07.27.56:816][  0]LogSlate: Took 0.014740 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.11.29-07.27.57:225][  0]LogStall: Startup...
+[2025.11.29-07.27.57:234][  0]LogStall: Startup complete.
+[2025.11.29-07.27.57:287][  0]LogLoad: (Engine Initialization) Total time: 63.67 seconds
+[2025.11.29-07.27.57:322][  0]LogRawInputWindows: QueryConnectedDevices found 16 devices
+[2025.11.29-07.27.57:323][  0]LogRawInputWindows: QueryConnectedDevices found 16 devices
+[2025.11.29-07.27.57:323][  0]LogRawInputWindows: QueryConnectedDevices found 16 devices
+[2025.11.29-07.27.57:834][  0]LogContentStreaming: Texture pool size now 400 MB
+[2025.11.29-07.27.57:834][  0]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="400"
+[2025.11.29-07.27.58:018][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.29-07.27.58:035][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... started...
+[2025.11.29-07.27.58:563][  0]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
+
+[2025.11.29-07.27.58:569][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... took 535.504 ms
+[2025.11.29-07.27.58:665][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Importers/USDImporter/Content/Python/init_unreal.py... started...
+[2025.11.29-07.27.58:665][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Importers/USDImporter/Content/Python/init_unreal.py... took 395 us (total: 535.899 ms)
+[2025.11.29-07.27.58:681][  0]LoadErrors: Warning: While trying to load package /Game/VehicleTemplate/Blueprints/BP_VehicleAdvPawnBase, a dependent package /Game/Vehicles/SportsCar/ABP_SportsCar was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Vehicles/SportsCar/ABP_SportsCar has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Vehicles/SportsCar/ABP_SportsCar'. Perhaps it has been deleted or was not synced?
+
+[2025.11.29-07.27.58:681][  0]LoadErrors: Warning: While trying to load package /Game/VehicleTemplate/Blueprints/BP_VehicleAdvPawnBase, a dependent package /Game/Vehicles/SportsCar/SKM_SportsCar was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Vehicles/SportsCar/SKM_SportsCar has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Vehicles/SportsCar/SKM_SportsCar'. Perhaps it has been deleted or was not synced?
+
+[2025.11.29-07.27.58:681][  0]LoadErrors: Warning: While trying to load package /Game/Vehicles/OffroadCar/Materials/MI_OffroadCar_Main, a dependent package /Game/Vehicles/SportsCar/Materials/M_SportsCarBase was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Vehicles/SportsCar/Materials/M_SportsCarBase has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Vehicles/SportsCar/Materials/M_SportsCarBase'. Perhaps it has been deleted or was not synced?
+
+[2025.11.29-07.27.58:682][  0]LoadErrors: Warning: While trying to load package /Game/Vehicles/OffroadCar/Materials/MI_OffroadCar_Suspension, a dependent package /Game/Vehicles/SportsCar/Materials/M_SportsCarBase was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Vehicles/SportsCar/Materials/M_SportsCarBase has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Vehicles/SportsCar/Materials/M_SportsCarBase'. Perhaps it has been deleted or was not synced?
+
+[2025.11.29-07.27.58:682][  0]LoadErrors: Warning: While trying to load package /Game/Vehicles/OffroadCar/Materials/MI_OffroadCar_Lights, a dependent package /Game/Vehicles/SportsCar/Materials/M_SportsCar_Lights was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Vehicles/SportsCar/Materials/M_SportsCar_Lights has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Vehicles/SportsCar/Materials/M_SportsCar_Lights'. Perhaps it has been deleted or was not synced?
+
+[2025.11.29-07.27.58:682][  0]LoadErrors: Warning: While trying to load package /Game/Vehicles/OffroadCar/Materials/MI_OffroadCar_Seats, a dependent package /Game/Vehicles/SportsCar/Materials/M_SportsCarBase was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Vehicles/SportsCar/Materials/M_SportsCarBase has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/Vehicles/SportsCar/Materials/M_SportsCarBase'. Perhaps it has been deleted or was not synced?
+
+[2025.11.29-07.27.58:685][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: CarGameProjectEditor Win64 Development
+[2025.11.29-07.27.59:150][  1]LogAssetRegistry: AssetRegistryGather time 0.3772s: AssetDataDiscovery 0.0254s, AssetDataGather 0.1715s, StoreResults 0.1803s. Wall time 27.3790s.
+	NumCachedDirectories 1719. NumUncachedDirectories 24. NumCachedFiles 7524. NumUncachedFiles 22.
+	BackgroundTickInterruptions 0.
+[2025.11.29-07.27.59:231][  1]LogPlacementMode: Display: The Asset Registry is done with its initial scan, the list of placeable classes has been updated.
+[2025.11.29-07.27.59:259][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000000 seconds (updated 0 objects)
+[2025.11.29-07.27.59:264][  1]LogSourceControl: Uncontrolled asset discovery started...
+[2025.11.29-07.27.59:473][  2]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.11.29-07.28.01:065][  8]LogSourceControl: Uncontrolled asset discovery finished in 1.801342 seconds (Found 7522 uncontrolled assets)
