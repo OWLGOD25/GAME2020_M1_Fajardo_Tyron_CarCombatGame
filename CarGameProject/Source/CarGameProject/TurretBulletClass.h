@@ -11,7 +11,7 @@ class UStaticMeshComponent;
 class UProjectileMovementComponent;
 
 UCLASS()
-class YOURPROJECT_API ATurretBullet : public AActor
+class CARGAMEPROJECT_API ATurretBullet : public AActor
 {
     GENERATED_BODY()
 

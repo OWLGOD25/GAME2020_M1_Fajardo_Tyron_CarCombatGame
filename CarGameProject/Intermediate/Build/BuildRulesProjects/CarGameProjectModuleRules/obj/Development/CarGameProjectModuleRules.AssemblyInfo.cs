@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CarGameProjectModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7b7fee54a0d7739bc464fb4ab975b1de509d2ad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e632af24272430ddfb0816bbfbe15057edcb282")]
 [assembly: System.Reflection.AssemblyProductAttribute("CarGameProjectModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CarGameProjectModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
