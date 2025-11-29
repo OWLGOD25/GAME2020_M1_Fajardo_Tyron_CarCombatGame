@@ -1427,3 +1427,421 @@ FPackageName: Skipped package /Game/Vehicles/SportsCar/Materials/M_SportsCarBase
 [2025.11.29-07.27.59:264][  1]LogSourceControl: Uncontrolled asset discovery started...
 [2025.11.29-07.27.59:473][  2]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
 [2025.11.29-07.28.01:065][  8]LogSourceControl: Uncontrolled asset discovery finished in 1.801342 seconds (Found 7522 uncontrolled assets)
+[2025.11.29-07.29.12:598][223]LogDerivedDataCache: C:/Users/tyron/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.11.29-07.29.19:160][417]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.11.29-07.29.19:183][417]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.29-07.29.19:254][417]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.11.29-07.29.19:255][417]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.11.29-07.29.19:257][417]LogPlayLevel: Creating play world package: /Game/VehicleTemplate/Maps/UEDPIE_0_MainMenu
+[2025.11.29-07.29.19:265][417]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007692s)
+[2025.11.29-07.29.19:265][417]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleTemplate/Maps/MainMenu.MainMenu to /Game/VehicleTemplate/Maps/UEDPIE_0_MainMenu.MainMenu (0.008275s)
+[2025.11.29-07.29.19:358][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.11.29-07.29.19:364][417]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.11.29-07.29.19:369][417]LogPlayLevel: PIE: World Init took: (0.005675s)
+[2025.11.29-07.29.19:373][417]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.11.29-07.29.19:373][417]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.29-07.29.19:373][417]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.29-07.29.19:373][417]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.29-07.29.19:373][417]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.29-07.29.19:373][417]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.29-07.29.19:373][417]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.29-07.29.19:373][417]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.29-07.29.19:373][417]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.29-07.29.19:373][417]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.29-07.29.19:373][417]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.29-07.29.19:373][417]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.29-07.29.19:376][417]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.29-07.29.19:405][417]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Monster N-Lite 203 AirLinks)
+[2025.11.29-07.29.19:405][417]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.29-07.29.19:405][417]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.29-07.29.19:405][417]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.29-07.29.19:406][417]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.11.29-07.29.19:406][417]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.11.29-07.29.19:411][417]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.11.29-07.29.19:411][417]LogInit: FAudioDevice initialized with ID 2.
+[2025.11.29-07.29.19:411][417]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.11.29-07.29.19:411][417]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMenu'.
+[2025.11.29-07.29.19:411][417]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.11.29-07.29.19:450][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.29-07.29.19:453][417]LogLoad: Game class is 'BP_VehicleAdvGameMode_C'
+[2025.11.29-07.29.19:459][417]LogWorld: Bringing World /Game/VehicleTemplate/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2025.11.29-02.29.19
+[2025.11.29-07.29.19:462][417]LogWorld: Bringing up level for play took: 0.004791
+[2025.11.29-07.29.19:468][417]LogOnline: OSS: Created online subsystem instance for: :Context_1
+[2025.11.29-07.29.19:559][417]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.29-07.29.19:559][417]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.11.29-07.29.19:593][417]PIE: Server logged in
+[2025.11.29-07.29.19:597][417]PIE: Play in editor total start time 0.424 seconds.
+[2025.11.29-07.29.19:949][418]LogCsvProfiler: Display: Metadata set : systemresolution.resx="1280"
+[2025.11.29-07.29.19:951][418]LogCsvProfiler: Display: Metadata set : systemresolution.resy="720"
+[2025.11.29-07.29.21:572][468]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.11.29-07.29.21:572][468]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.11.29-07.29.21:575][468]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/VehicleTemplate/Maps/Lvl_VehicleBasic"
+[2025.11.29-07.29.21:575][468]LogNet: Browse: /Game/VehicleTemplate/Maps/Lvl_VehicleBasic
+[2025.11.29-07.29.21:575][468]LogLoad: LoadMap: /Game/VehicleTemplate/Maps/Lvl_VehicleBasic
+[2025.11.29-07.29.21:575][468]LogWorld: BeginTearingDown for /Game/VehicleTemplate/Maps/UEDPIE_0_MainMenu
+[2025.11.29-07.29.21:579][468]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2025.11.29-07.29.21:583][468]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.11.29-07.29.21:583][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.29-07.29.21:616][468]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.29-07.29.21:623][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.11.29-07.29.21:639][468]LogStreaming: Display: FlushAsyncLoading(330): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.29-07.29.21:708][468]LogAudio: Display: Audio Device (ID: 2) registered with world 'Lvl_VehicleBasic'.
+[2025.11.29-07.29.21:708][468]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_VehicleBasic
+[2025.11.29-07.29.21:713][468]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_VehicleBasic)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.11.29-07.29.21:713][468]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.11.29-07.29.21:715][468]LogWorldPartition: UWorldPartition::Initialize : World = /Game/VehicleTemplate/Maps/UEDPIE_0_Lvl_VehicleBasic.Lvl_VehicleBasic, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2025.11.29-07.29.21:715][468]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.11.29-07.29.21:736][468]LogWorldPartition: Display: GenerateStreaming for 'Lvl_VehicleBasic' started...
+[2025.11.29-07.29.23:048][468]LogWorldPartition: Display: GenerateStreaming for 'Lvl_VehicleBasic' took 1.31 sec
+[2025.11.29-07.29.23:052][468]LogWorldPartition: Display: WorldPartition initialize took 1.33 sec
+[2025.11.29-07.29.23:052][468]LogPlayLevel: PIE: World Init took: (1.344491s)
+[2025.11.29-07.29.23:052][468]LogLoad: Game class is 'BP_VehicleAdvGameMode_C'
+[2025.11.29-07.29.23:055][468]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/VehicleTemplate/Meshes/SM_Cone.SM_Cone being ready before playing
+[2025.11.29-07.29.23:055][468]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Imported_Assets/Mini_Auto_Service/base.base being ready before playing
+[2025.11.29-07.29.23:055][468]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Imported_Assets/Mini_Auto_Service/darkwall.darkwall being ready before playing
+[2025.11.29-07.29.23:055][468]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Imported_Assets/Mini_Auto_Service/darkwall_001.darkwall_001 being ready before playing
+[2025.11.29-07.29.23:055][468]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Imported_Assets/Mini_Auto_Service/darkwall_002.darkwall_002 being ready before playing
+[2025.11.29-07.29.23:055][468]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Imported_Assets/Mini_Auto_Service/darkwall_003.darkwall_003 being ready before playing
+[2025.11.29-07.29.23:055][468]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Imported_Assets/Mini_Auto_Service/darkwall_004.darkwall_004 being ready before playing
+[2025.11.29-07.29.23:055][468]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Imported_Assets/Mini_Auto_Service/Door.Door being ready before playing
+[2025.11.29-07.29.23:055][468]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Imported_Assets/Mini_Auto_Service/Door_001.Door_001 being ready before playing
+[2025.11.29-07.29.23:055][468]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Imported_Assets/Mini_Auto_Service/Door_002.Door_002 being ready before playing
+[2025.11.29-07.29.23:055][468]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Imported_Assets/Mini_Auto_Service/Door_003.Door_003 being ready before playing
+[2025.11.29-07.29.23:055][468]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Imported_Assets/Mini_Auto_Service/Door_004.Door_004 being ready before playing
+[2025.11.29-07.29.23:055][468]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Imported_Assets/Mini_Auto_Service/Door_005.Door_005 being ready before playing
+[2025.11.29-07.29.23:055][468]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Imported_Assets/Mini_Auto_Service/Door_006.Door_006 being ready before playing
+[2025.11.29-07.29.23:055][468]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Imported_Assets/Mini_Auto_Service/Door_007.Door_007 being ready before playing
+[2025.11.29-07.29.23:055][468]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Imported_Assets/Mini_Auto_Service/Door_008.Door_008 being ready before playing
+[2025.11.29-07.29.23:055][468]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Imported_Assets/Mini_Auto_Service/Door_009.Door_009 being ready before playing
+[2025.11.29-07.29.23:055][468]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Imported_Assets/Mini_Auto_Service/Door_010.Door_010 being ready before playing
+[2025.11.29-07.29.23:055][468]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Imported_Assets/Mini_Auto_Service/Door_011.Door_011 being ready before playing
+[2025.11.29-07.29.23:055][468]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Imported_Assets/Mini_Auto_Service/facade.facade being ready before playing
+[2025.11.29-07.29.23:055][468]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Imported_Assets/Mini_Auto_Service/facade_001.facade_001 being ready before playing
+[2025.11.29-07.29.23:055][468]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Imported_Assets/Mini_Auto_Service/floor.floor being ready before playing
+[2025.11.29-07.29.23:055][468]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Imported_Assets/Mini_Auto_Service/floor_001.floor_001 being ready before playing
+[2025.11.29-07.29.23:055][468]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Imported_Assets/Mini_Auto_Service/glass.glass being ready before playing
+[2025.11.29-07.29.23:055][468]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Imported_Assets/Mini_Auto_Service/glass_002.glass_002 being ready before playing
+[2025.11.29-07.29.23:055][468]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Imported_Assets/Mini_Auto_Service/light.light being ready before playing
+[2025.11.29-07.29.23:055][468]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Imported_Assets/Mini_Auto_Service/roof.roof being ready before playing
+[2025.11.29-07.29.23:055][468]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Imported_Assets/Mini_Auto_Service/Text.Text being ready before playing
+[2025.11.29-07.29.23:055][468]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Imported_Assets/Mini_Auto_Service/topprofile.topprofile being ready before playing
+[2025.11.29-07.29.23:055][468]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Imported_Assets/Mini_Auto_Service/topprofile_001.topprofile_001 being ready before playing
+[2025.11.29-07.29.23:055][468]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Imported_Assets/Mini_Auto_Service/wall.wall being ready before playing
+[2025.11.29-07.29.23:055][468]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Imported_Assets/Mini_Auto_Service/wall_001.wall_001 being ready before playing
+[2025.11.29-07.29.23:055][468]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Imported_Assets/Mini_Auto_Service/wall_002.wall_002 being ready before playing
+[2025.11.29-07.29.23:055][468]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Imported_Assets/Mini_Auto_Service/wall_003.wall_003 being ready before playing
+[2025.11.29-07.29.23:055][468]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Imported_Assets/Mini_Auto_Service/wall_004.wall_004 being ready before playing
+[2025.11.29-07.29.23:055][468]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Imported_Assets/Mini_Auto_Service/wall_005.wall_005 being ready before playing
+[2025.11.29-07.29.23:055][468]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Imported_Assets/Mini_Auto_Service/wall_006.wall_006 being ready before playing
+[2025.11.29-07.29.23:055][468]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Imported_Assets/Mini_Auto_Service/wall_007.wall_007 being ready before playing
+[2025.11.29-07.29.23:055][468]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Imported_Assets/Mini_Auto_Service/windows.windows being ready before playing
+[2025.11.29-07.29.23:055][468]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Imported_Assets/Mini_Auto_Service/windows_002.windows_002 being ready before playing
+[2025.11.29-07.29.23:056][468]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Imported_Assets/Mini_Auto_Service/windows_003.windows_003 being ready before playing
+[2025.11.29-07.29.23:056][468]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fab/Fixed_Machine_Gun_Turret_/MGMain.MGMain being ready before playing
+[2025.11.29-07.29.23:056][468]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fab/Fixed_Machine_Gun_Turret_/Stand.Stand being ready before playing
+[2025.11.29-07.29.23:056][468]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fab/Fixed_Machine_Gun_Turret_/Swivel.Swivel being ready before playing
+[2025.11.29-07.29.23:075][468]LogStaticMesh: Display: Waiting for static meshes to be ready 39/44 (/Game/Imported_Assets/Mini_Auto_Service/windows) ...
+[2025.11.29-07.29.23:091][468]LogStaticMesh: Display: Waiting for static meshes to be ready 43/44 (/Game/Imported_Assets/Mini_Auto_Service/windows_003) ...
+[2025.11.29-07.29.23:183][468]LogWorld: Bringing World /Game/VehicleTemplate/Maps/UEDPIE_0_Lvl_VehicleBasic.Lvl_VehicleBasic up for play (max tick rate 60) at 2025.11.29-02.29.23
+[2025.11.29-07.29.23:189][468]LogWorld: Bringing up level for play took: 0.046055
+[2025.11.29-07.29.23:199][468]LogLoad: Took 1.624396 seconds to LoadMap(/Game/VehicleTemplate/Maps/Lvl_VehicleBasic)
+[2025.11.29-07.29.23:199][468]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/VehicleTemplate/Maps/Lvl_VehicleBasic
+[2025.11.29-07.29.27:455][583]PIE: Warning: Mobility of /Game/VehicleTemplate/Maps/UEDPIE_0_Lvl_VehicleBasic.Lvl_VehicleBasic:PersistentLevel.NewBlueprint_C_UAID_E89C25CFACBB1D9D02_1482898402 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2025.11.29-07.29.27:455][583]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Fire) or object (NewBlueprint_C_UAID_E89C25CFACBB1D9D02_1482898402)
+[2025.11.29-07.29.27:987][599]PIE: Warning: Mobility of /Game/VehicleTemplate/Maps/UEDPIE_0_Lvl_VehicleBasic.Lvl_VehicleBasic:PersistentLevel.NewBlueprint_C_UAID_E89C25CFACBB1D9D02_1482898402 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2025.11.29-07.29.27:987][599]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Fire) or object (NewBlueprint_C_UAID_E89C25CFACBB1D9D02_1482898402)
+[2025.11.29-07.29.28:518][615]PIE: Warning: Mobility of /Game/VehicleTemplate/Maps/UEDPIE_0_Lvl_VehicleBasic.Lvl_VehicleBasic:PersistentLevel.NewBlueprint_C_UAID_E89C25CFACBB1D9D02_1482898402 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2025.11.29-07.29.28:518][615]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Fire) or object (NewBlueprint_C_UAID_E89C25CFACBB1D9D02_1482898402)
+[2025.11.29-07.29.29:554][646]PIE: Warning: Mobility of /Game/VehicleTemplate/Maps/UEDPIE_0_Lvl_VehicleBasic.Lvl_VehicleBasic:PersistentLevel.NewBlueprint_C_UAID_E89C25CFACBB1D9D02_1482898402 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2025.11.29-07.29.29:554][646]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Fire) or object (NewBlueprint_C_UAID_E89C25CFACBB1D9D02_1482898402)
+[2025.11.29-07.29.29:588][646]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.29-07.29.29:588][646]LogWorld: BeginTearingDown for /Game/VehicleTemplate/Maps/UEDPIE_0_Lvl_VehicleBasic
+[2025.11.29-07.29.29:590][646]LogSlate: Window 'CarGameProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.11.29-07.29.29:642][646]LogWorld: UWorld::CleanupWorld for Lvl_VehicleBasic, bSessionEnded=true, bCleanupResources=true
+[2025.11.29-07.29.29:645][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.29-07.29.29:646][646]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/VehicleTemplate/Maps/UEDPIE_0_Lvl_VehicleBasic.Lvl_VehicleBasic
+[2025.11.29-07.29.29:652][646]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.29-07.29.29:658][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.29-07.29.29:687][646]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.11.29-07.29.29:688][646]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2025.11.29-07.29.29:692][646]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2025.11.29-07.29.29:739][646]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.11.29-07.29.29:884][647]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2025.11.29-07.29.32:919][700]LogSlate: Window 'Message Log' being destroyed
+[2025.11.29-07.29.33:044][700]LogSlate: Window 'Message Log' being destroyed
+[2025.11.29-07.29.36:185][792]LogSlate: Took 0.012623 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.11.29-07.29.36:276][794]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.11.29-07.29.36:379][797]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.11.29-07.29.36:549][800]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.11.29-07.29.36:605][801]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.11.29-07.29.51:929][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.11.29-07.29.51:934][291]LogStreaming: Display: FlushAsyncLoading(393): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.29-07.29.51:941][291]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_VehicleBasic
+[2025.11.29-07.29.51:953][291]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_VehicleBasic)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.11.29-07.29.51:953][291]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.11.29-07.29.51:953][291]LogWorldPartition: UWorldPartition::Initialize : World = /Game/VehicleTemplate/Maps/Lvl_VehicleBasic.Lvl_VehicleBasic, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.11.29-07.29.51:994][291]LogWorldPartition: Display: WorldPartition initialize took 40.274 ms (total: 1.37 sec)
+[2025.11.29-07.29.52:012][291]LogAssetEditorSubsystem: Opening Asset editor for World /Game/VehicleTemplate/Maps/Lvl_VehicleBasic.Lvl_VehicleBasic
+[2025.11.29-07.29.52:123][291]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.11.29-07.29.52:125][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.29-07.29.52:149][291]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.29-07.29.52:154][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.11.29-07.29.52:159][291]LogWorld: UWorld::CleanupWorld for Lvl_VehicleBasic, bSessionEnded=true, bCleanupResources=true
+[2025.11.29-07.29.52:161][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.29-07.29.52:161][291]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/VehicleTemplate/Maps/Lvl_VehicleBasic.Lvl_VehicleBasic
+[2025.11.29-07.29.52:199][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.11.29-07.29.52:225][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.11.29-07.29.52:233][291]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lvl_VehicleBasic'.
+[2025.11.29-07.29.52:233][291]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_VehicleBasic
+[2025.11.29-07.29.52:238][291]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_VehicleBasic)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.11.29-07.29.52:238][291]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.11.29-07.29.52:238][291]LogWorldPartition: UWorldPartition::Initialize : World = /Game/VehicleTemplate/Maps/Lvl_VehicleBasic.Lvl_VehicleBasic, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.11.29-07.29.52:262][291]LogWorldPartition: Display: WorldPartition initialize took 23.946 ms (total: 1.40 sec)
+[2025.11.29-07.29.52:367][291]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.11.29-07.29.52:396][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.11.29-07.29.52:411][291]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.11.29-07.29.52:412][291]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.438ms to complete.
+[2025.11.29-07.36.23:237][ 57]LogSlate: Took 0.009796 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.11.29-07.36.33:736][313]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/My_Assets/TurretBullet.TurretBullet
+[2025.11.29-07.36.33:739][313]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.11.29-07.36.33:905][313]LogStreaming: Display: FlushAsyncLoading(521): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.29-07.36.38:669][313]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2025.11.29-07.36.57:522][659]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.11.29-07.38.29:736][137]LogSlate: Window 'Content Browser' being destroyed
+[2025.11.29-07.38.29:841][137]LogSlate: Window 'Content Browser' being destroyed
+[2025.11.29-07.40.39:510][705]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.11.29-07.40.39:511][705]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.11.29-07.40.40:621][719]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.11.29-07.40.40:622][719]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.11.29-07.40.49:693][892]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.11.29-07.41.17:148][603]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.11.29-07.41.17:148][603]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.11.29-07.41.57:248][632]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.11.29-07.42.23:835][201]LogStreaming: Display: FlushAsyncLoading(721): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.29-07.42.57:982][175]LogShaderCompilers: Display: ================================================
+[2025.11.29-07.42.57:982][175]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.11.29-07.42.57:982][175]LogShaderCompilers: Display: Total job queries 510, among them cache hits 47 (9.22%), DDC hits 362 (70.98%), Duplicates 68 (13.33%)
+[2025.11.29-07.42.57:982][175]LogShaderCompilers: Display: Tracking 395 distinct input hashes that result in 284 distinct outputs (71.90%)
+[2025.11.29-07.42.57:982][175]LogShaderCompilers: Display: RAM used: 3.66 MiB of 409.60 MiB budget. Usage: 0.89%
+[2025.11.29-07.42.57:982][175]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.11.29-07.42.57:983][175]LogShaderCompilers: Display: Shaders Compiled: 33
+[2025.11.29-07.42.57:983][175]LogShaderCompilers: Display: Jobs assigned 33, completed 33 (100%)
+[2025.11.29-07.42.57:983][175]LogShaderCompilers: Display: Average time worker was idle: 14.83 s
+[2025.11.29-07.42.57:983][175]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.15 s
+[2025.11.29-07.42.57:983][175]LogShaderCompilers: Display: Job execution time: average 1.24 s, max 2.77 s
+[2025.11.29-07.42.57:983][175]LogShaderCompilers: Display: Job life time (pending + execution): average 1.31 s, max 2.93
+[2025.11.29-07.42.57:983][175]LogShaderCompilers: Display: Shader code size: total 315.621 KiB, numShaders 34, average 9.282 KiB, min 3.777 KiB, max 14.973 KiB
+[2025.11.29-07.42.57:983][175]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 19.14 s
+[2025.11.29-07.42.57:983][175]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.08%
+[2025.11.29-07.42.57:983][175]LogShaderCompilers: Display: Jobs were issued in 33 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.11.29-07.42.57:983][175]LogShaderCompilers: Display: Average processing rate: 1.72 jobs/sec
+[2025.11.29-07.42.57:983][175]LogShaderCompilers: Display: Total thread time: 34.783 s
+[2025.11.29-07.42.57:983][175]LogShaderCompilers: Display: Total thread preprocess time: 13.82 s
+[2025.11.29-07.42.57:983][175]LogShaderCompilers: Display: Percentage time preprocessing: 39.73%
+[2025.11.29-07.42.57:983][175]LogShaderCompilers: Display: Effective parallelization: 1.82 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.227172
+[2025.11.29-07.42.57:983][175]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.11.29-07.42.57:984][175]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    4 times, average 1.90 sec, max 2.42 sec, min 1.59 sec)
+[2025.11.29-07.42.57:984][175]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    7 times, average 1.49 sec, max 1.97 sec, min 1.26 sec)
+[2025.11.29-07.42.57:984][175]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 1.06 sec, max 1.06 sec, min 1.06 sec)
+[2025.11.29-07.42.57:984][175]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   12 times, average 0.81 sec, max 1.05 sec, min 0.62 sec)
+[2025.11.29-07.42.57:984][175]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    7 times, average 0.61 sec, max 0.72 sec, min 0.48 sec)
+[2025.11.29-07.42.57:984][175]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.11.29-07.42.57:984][175]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 30.01% of total time (compiled    7 times, average 1.49 sec, max 1.97 sec, min 1.26 sec)
+[2025.11.29-07.42.57:984][175]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 28.09% of total time (compiled   12 times, average 0.81 sec, max 1.05 sec, min 0.62 sec)
+[2025.11.29-07.42.57:984][175]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 21.90% of total time (compiled    4 times, average 1.90 sec, max 2.42 sec, min 1.59 sec)
+[2025.11.29-07.42.57:984][175]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.27% of total time (compiled    7 times, average 0.61 sec, max 0.72 sec, min 0.48 sec)
+[2025.11.29-07.42.57:984][175]LogShaderCompilers: Display:                                                  FHitProxyVS - 3.13% of total time (compiled    2 times, average 0.54 sec, max 0.55 sec, min 0.54 sec)
+[2025.11.29-07.42.57:984][175]LogShaderCompilers: Display: === Material stats ===
+[2025.11.29-07.42.57:984][175]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.11.29-07.42.57:984][175]LogShaderCompilers: Display: Materials Translated:    157
+[2025.11.29-07.42.57:984][175]LogShaderCompilers: Display: Material Total Translate Time: 0.21 s
+[2025.11.29-07.42.57:984][175]LogShaderCompilers: Display: Material Translation Only: 0.09 s (43%)
+[2025.11.29-07.42.57:984][175]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.11.29-07.42.57:984][175]LogShaderCompilers: Display: Material Cache Hits: 21 (13%)
+[2025.11.29-07.42.57:984][175]LogShaderCompilers: Display: ================================================
+[2025.11.29-07.45.18:644][985]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2025.11.29-07.45.18:653][985]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VehicleTemplate/Maps/Lvl_VehicleBasic' took 0.296
+[2025.11.29-07.45.18:657][985]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/My_Assets/TurretBullet] ([2] browsable assets)...
+[2025.11.29-07.45.18:683][985]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/My_Assets/TurretBullet.TurretBullet]
+[2025.11.29-07.45.18:683][985]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.11.29-07.45.18:721][985]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/My_Assets/TurretBullet.TurretBullet_C]
+[2025.11.29-07.45.18:721][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/My_Assets/TurretBullet]
+[2025.11.29-07.45.18:767][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/My_Assets/TurretBullet_Auto1
+[2025.11.29-07.45.18:767][985]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/TurretBullet_Auto15B0C1940451C6A0E50BAADB763318A5A.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/Autosaves/Game/My_Assets/TurretBullet_Auto1.uasset'
+[2025.11.29-07.45.18:775][985]LogFileHelpers: Auto-saving content packages took 0.120
+[2025.11.29-07.48.28:594][184]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2025.11.29-07.48.30:395][224]LogSlate: Window 'TurretBullet' being destroyed
+[2025.11.29-07.48.30:472][224]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.11.29-07.48.30:472][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.29-07.48.30:607][224]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.11.29-07.48.38:963][573]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/My_Assets/NewBlueprint.NewBlueprint
+[2025.11.29-07.48.38:963][573]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.11.29-07.55.31:664][111]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2025.11.29-07.55.31:672][111]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VehicleTemplate/Maps/Lvl_VehicleBasic' took 0.127
+[2025.11.29-07.55.31:672][111]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/My_Assets/NewBlueprint] ([2] browsable assets)...
+[2025.11.29-07.55.31:717][111]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/My_Assets/NewBlueprint.NewBlueprint]
+[2025.11.29-07.55.31:717][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/My_Assets/NewBlueprint]
+[2025.11.29-07.55.31:763][111]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/My_Assets/NewBlueprint_Auto2
+[2025.11.29-07.55.31:763][111]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/NewBlueprint_Auto26B42CC834D679F09D4C1A985757555B0.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/Autosaves/Game/My_Assets/NewBlueprint_Auto2.uasset'
+[2025.11.29-07.55.31:765][111]LogFileHelpers: Auto-saving content packages took 0.093
+[2025.11.29-07.55.45:435][505]LogSlate: Took 0.013787 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.11.29-07.59.17:323][484]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2025.11.29-07.59.24:967][813]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2025.11.29-07.59.35:679][235]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.11.29-07.59.35:681][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.29-07.59.35:792][235]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2025.11.29-07.59.47:710][923]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/My_Assets/NewBlueprint.NewBlueprint
+[2025.11.29-07.59.47:712][923]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.11.29-08.05.26:032][361]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2025.11.29-08.05.28:909][470]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.11.29-08.05.28:911][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.29-08.05.29:043][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.11.29-08.05.30:299][529]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.11.29-08.05.30:324][529]LogContentBundle: [Lvl_VehicleBasic(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.11.29-08.05.30:325][529]LogWorldPartition: Display: GenerateStreaming for 'Lvl_VehicleBasic' started...
+[2025.11.29-08.05.30:346][529]LogWorldPartition: Display: GenerateStreaming for 'Lvl_VehicleBasic' took 20.822 ms (total: 1.33 sec)
+[2025.11.29-08.05.30:359][529]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.29-08.05.30:373][529]LogPlayLevel: Creating play world package: /Game/VehicleTemplate/Maps/UEDPIE_0_Lvl_VehicleBasic
+[2025.11.29-08.05.30:414][529]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.11.29-08.05.30:417][529]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 3.317 ms
+[2025.11.29-08.05.30:417][529]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042718s)
+[2025.11.29-08.05.30:417][529]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleTemplate/Maps/Lvl_VehicleBasic.Lvl_VehicleBasic to /Game/VehicleTemplate/Maps/UEDPIE_0_Lvl_VehicleBasic.Lvl_VehicleBasic (0.044014s)
+[2025.11.29-08.05.30:459][529]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2025.11.29-08.05.30:467][529]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_VehicleBasic
+[2025.11.29-08.05.30:498][529]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_VehicleBasic)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.11.29-08.05.30:498][529]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.11.29-08.05.30:499][529]LogWorldPartition: UWorldPartition::Initialize : World = /Game/VehicleTemplate/Maps/UEDPIE_0_Lvl_VehicleBasic.Lvl_VehicleBasic, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.11.29-08.05.30:499][529]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.11.29-08.05.30:510][529]LogWorldPartition: Display: WorldPartition initialize took 10.646 ms (total: 1.41 sec)
+[2025.11.29-08.05.30:513][529]LogPlayLevel: PIE: World Init took: (0.045952s)
+[2025.11.29-08.05.30:541][529]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.11.29-08.05.30:544][529]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.29-08.05.30:544][529]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.29-08.05.30:544][529]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.29-08.05.30:544][529]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.29-08.05.30:544][529]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.29-08.05.30:545][529]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.29-08.05.30:545][529]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.29-08.05.30:545][529]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.29-08.05.30:550][529]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.29-08.05.30:550][529]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.29-08.05.30:550][529]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.29-08.05.30:559][529]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.29-08.05.30:646][529]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Monster N-Lite 203 AirLinks)
+[2025.11.29-08.05.30:650][529]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.29-08.05.30:650][529]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.29-08.05.30:652][529]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.29-08.05.30:656][529]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.11.29-08.05.30:656][529]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.11.29-08.05.30:661][529]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.11.29-08.05.30:661][529]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.11.29-08.05.30:661][529]LogInit: FAudioDevice initialized with ID 3.
+[2025.11.29-08.05.30:661][529]LogAudio: Display: Audio Device (ID: 3) registered with world 'Lvl_VehicleBasic'.
+[2025.11.29-08.05.30:665][529]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.11.29-08.05.30:718][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.29-08.05.30:724][529]LogLoad: Game class is 'BP_VehicleAdvGameMode_C'
+[2025.11.29-08.05.30:749][529]LogWorld: Bringing World /Game/VehicleTemplate/Maps/UEDPIE_0_Lvl_VehicleBasic.Lvl_VehicleBasic up for play (max tick rate 60) at 2025.11.29-03.05.30
+[2025.11.29-08.05.30:758][529]LogWorld: Bringing up level for play took: 0.032182
+[2025.11.29-08.05.30:782][529]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2025.11.29-08.05.31:005][529]PIE: Server logged in
+[2025.11.29-08.05.31:009][529]PIE: Play in editor total start time 0.692 seconds.
+[2025.11.29-08.05.35:285][653]PIE: Warning: Mobility of /Game/VehicleTemplate/Maps/UEDPIE_0_Lvl_VehicleBasic.Lvl_VehicleBasic:PersistentLevel.NewBlueprint_C_UAID_E89C25CFACBB1D9D02_1482898402 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2025.11.29-08.05.35:816][669]PIE: Warning: Mobility of /Game/VehicleTemplate/Maps/UEDPIE_0_Lvl_VehicleBasic.Lvl_VehicleBasic:PersistentLevel.NewBlueprint_C_UAID_E89C25CFACBB1D9D02_1482898402 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2025.11.29-08.05.36:351][685]PIE: Warning: Mobility of /Game/VehicleTemplate/Maps/UEDPIE_0_Lvl_VehicleBasic.Lvl_VehicleBasic:PersistentLevel.NewBlueprint_C_UAID_E89C25CFACBB1D9D02_1482898402 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2025.11.29-08.05.43:593][902]PIE: Warning: Mobility of /Game/VehicleTemplate/Maps/UEDPIE_0_Lvl_VehicleBasic.Lvl_VehicleBasic:PersistentLevel.NewBlueprint_C_UAID_E89C25CFACBB1D9D02_1482898402 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2025.11.29-08.05.44:653][934]PIE: Warning: Mobility of /Game/VehicleTemplate/Maps/UEDPIE_0_Lvl_VehicleBasic.Lvl_VehicleBasic:PersistentLevel.NewBlueprint_C_UAID_E89C25CFACBB1D9D02_1482898402 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2025.11.29-08.05.45:687][965]PIE: Warning: Mobility of /Game/VehicleTemplate/Maps/UEDPIE_0_Lvl_VehicleBasic.Lvl_VehicleBasic:PersistentLevel.NewBlueprint_C_UAID_E89C25CFACBB1D9D02_1482898402 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2025.11.29-08.05.46:724][996]PIE: Warning: Mobility of /Game/VehicleTemplate/Maps/UEDPIE_0_Lvl_VehicleBasic.Lvl_VehicleBasic:PersistentLevel.NewBlueprint_C_UAID_E89C25CFACBB1D9D02_1482898402 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2025.11.29-08.05.49:322][ 74]PIE: Warning: Mobility of /Game/VehicleTemplate/Maps/UEDPIE_0_Lvl_VehicleBasic.Lvl_VehicleBasic:PersistentLevel.NewBlueprint_C_UAID_E89C25CFACBB1D9D02_1482898402 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2025.11.29-08.05.49:821][ 89]PIE: Warning: Mobility of /Game/VehicleTemplate/Maps/UEDPIE_0_Lvl_VehicleBasic.Lvl_VehicleBasic:PersistentLevel.NewBlueprint_C_UAID_E89C25CFACBB1D9D02_1482898402 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2025.11.29-08.05.50:353][105]PIE: Warning: Mobility of /Game/VehicleTemplate/Maps/UEDPIE_0_Lvl_VehicleBasic.Lvl_VehicleBasic:PersistentLevel.NewBlueprint_C_UAID_E89C25CFACBB1D9D02_1482898402 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2025.11.29-08.05.50:853][120]PIE: Warning: Mobility of /Game/VehicleTemplate/Maps/UEDPIE_0_Lvl_VehicleBasic.Lvl_VehicleBasic:PersistentLevel.NewBlueprint_C_UAID_E89C25CFACBB1D9D02_1482898402 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2025.11.29-08.05.50:895][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.29-08.05.50:895][120]LogWorld: BeginTearingDown for /Game/VehicleTemplate/Maps/UEDPIE_0_Lvl_VehicleBasic
+[2025.11.29-08.05.50:896][120]LogSlate: Window 'CarGameProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.11.29-08.05.50:933][120]LogWorld: UWorld::CleanupWorld for Lvl_VehicleBasic, bSessionEnded=true, bCleanupResources=true
+[2025.11.29-08.05.50:939][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.29-08.05.50:939][120]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/VehicleTemplate/Maps/UEDPIE_0_Lvl_VehicleBasic.Lvl_VehicleBasic
+[2025.11.29-08.05.50:946][120]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.29-08.05.50:957][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.29-08.05.51:003][120]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.11.29-08.05.51:004][120]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2025.11.29-08.05.51:014][120]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2025.11.29-08.05.51:106][120]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2025.11.29-08.05.51:292][121]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2025.11.29-08.06.03:424][363]LogSlate: Window 'Message Log' being destroyed
+[2025.11.29-08.06.03:548][363]LogSlate: Window 'Message Log' being destroyed
+[2025.11.29-08.06.06:540][452]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/My_Assets/NewBlueprint.NewBlueprint
+[2025.11.29-08.06.06:540][452]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.11.29-08.06.12:036][663]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2025.11.29-08.06.13:798][739]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.11.29-08.06.13:808][739]LogContentBundle: [Lvl_VehicleBasic(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.11.29-08.06.13:808][739]LogWorldPartition: Display: GenerateStreaming for 'Lvl_VehicleBasic' started...
+[2025.11.29-08.06.13:809][739]LogWorldPartition: Display: GenerateStreaming for 'Lvl_VehicleBasic' took 857 us (total: 1.33 sec)
+[2025.11.29-08.06.13:809][739]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.29-08.06.13:809][739]LogPlayLevel: Creating play world package: /Game/VehicleTemplate/Maps/UEDPIE_0_Lvl_VehicleBasic
+[2025.11.29-08.06.13:819][739]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.11.29-08.06.13:823][739]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.243 ms (total: 5.561 ms)
+[2025.11.29-08.06.13:823][739]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012954s)
+[2025.11.29-08.06.13:823][739]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleTemplate/Maps/Lvl_VehicleBasic.Lvl_VehicleBasic to /Game/VehicleTemplate/Maps/UEDPIE_0_Lvl_VehicleBasic.Lvl_VehicleBasic (0.013010s)
+[2025.11.29-08.06.13:863][739]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2025.11.29-08.06.13:868][739]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_VehicleBasic
+[2025.11.29-08.06.13:872][739]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_VehicleBasic)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.11.29-08.06.13:872][739]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.11.29-08.06.13:872][739]LogWorldPartition: UWorldPartition::Initialize : World = /Game/VehicleTemplate/Maps/UEDPIE_0_Lvl_VehicleBasic.Lvl_VehicleBasic, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.11.29-08.06.13:872][739]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.11.29-08.06.13:874][739]LogWorldPartition: Display: WorldPartition initialize took 2.508 ms (total: 1.41 sec)
+[2025.11.29-08.06.13:874][739]LogPlayLevel: PIE: World Init took: (0.006442s)
+[2025.11.29-08.06.13:875][739]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.11.29-08.06.13:875][739]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.29-08.06.13:875][739]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.29-08.06.13:875][739]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.29-08.06.13:875][739]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.29-08.06.13:875][739]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.29-08.06.13:875][739]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.29-08.06.13:875][739]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.29-08.06.13:875][739]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.29-08.06.13:875][739]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.29-08.06.13:875][739]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.29-08.06.13:875][739]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.29-08.06.13:879][739]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.29-08.06.13:902][739]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Monster N-Lite 203 AirLinks)
+[2025.11.29-08.06.13:903][739]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.29-08.06.13:903][739]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.29-08.06.13:903][739]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.29-08.06.13:905][739]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.11.29-08.06.13:905][739]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.11.29-08.06.13:907][739]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.11.29-08.06.13:907][739]LogInit: FAudioDevice initialized with ID 4.
+[2025.11.29-08.06.13:907][739]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.11.29-08.06.13:907][739]LogAudio: Display: Audio Device (ID: 4) registered with world 'Lvl_VehicleBasic'.
+[2025.11.29-08.06.13:907][739]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.11.29-08.06.13:938][739]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.29-08.06.13:938][739]LogLoad: Game class is 'BP_VehicleAdvGameMode_C'
+[2025.11.29-08.06.13:945][739]LogWorld: Bringing World /Game/VehicleTemplate/Maps/UEDPIE_0_Lvl_VehicleBasic.Lvl_VehicleBasic up for play (max tick rate 60) at 2025.11.29-03.06.13
+[2025.11.29-08.06.13:945][739]LogWorld: Bringing up level for play took: 0.006820
+[2025.11.29-08.06.13:951][739]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2025.11.29-08.06.13:963][739]PIE: Server logged in
+[2025.11.29-08.06.13:966][739]PIE: Play in editor total start time 0.159 seconds.
+[2025.11.29-08.06.33:622][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.29-08.06.33:622][327]LogWorld: BeginTearingDown for /Game/VehicleTemplate/Maps/UEDPIE_0_Lvl_VehicleBasic
+[2025.11.29-08.06.33:622][327]LogSlate: Window 'CarGameProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.11.29-08.06.33:676][327]LogWorld: UWorld::CleanupWorld for Lvl_VehicleBasic, bSessionEnded=true, bCleanupResources=true
+[2025.11.29-08.06.33:678][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.29-08.06.33:678][327]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/VehicleTemplate/Maps/UEDPIE_0_Lvl_VehicleBasic.Lvl_VehicleBasic
+[2025.11.29-08.06.33:679][327]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.29-08.06.33:688][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.29-08.06.33:727][327]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.29-08.06.33:727][327]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.11.29-08.06.33:727][327]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2025.11.29-08.06.33:734][327]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2025.11.29-08.06.33:751][327]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2025.11.29-08.06.33:809][328]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2025.11.29-08.07.06:428][739]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2025.11.29-08.07.06:432][739]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VehicleTemplate/Maps/Lvl_VehicleBasic' took 0.044
+[2025.11.29-08.07.06:433][739]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/My_Assets/NewBlueprint] ([2] browsable assets)...
+[2025.11.29-08.07.06:544][739]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/My_Assets/NewBlueprint.NewBlueprint]
+[2025.11.29-08.07.06:544][739]OBJ SavePackage: Finished generating thumbnails for package [/Game/My_Assets/NewBlueprint]
+[2025.11.29-08.07.06:573][739]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/My_Assets/NewBlueprint_Auto3
+[2025.11.29-08.07.06:573][739]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/NewBlueprint_Auto397AE34DA41D313996C37638DA46FE3C6.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/Autosaves/Game/My_Assets/NewBlueprint_Auto3.uasset'
+[2025.11.29-08.07.06:575][739]LogFileHelpers: Auto-saving content packages took 0.143
