@@ -42,4 +42,14 @@
       <Filter>Source\CarGameProject</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\CarGameProject\TurretBulletClass.h">
+      <Filter>Source\CarGameProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\CarGameProject\TurretBulletClass.cpp">
+      <Filter>Source\CarGameProject</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>

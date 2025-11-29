@@ -41,29 +41,30 @@ ATurretBullet::ATurretBullet()
 void ATurretBullet::BeginPlay()
 {
     Super::BeginPlay();
-
-    // Auto destroy after some time
-    SetLifeSpan(LifeSeconds);
 }
+
 
 void ATurretBullet::OnHit(UPrimitiveComponent* HitComp, AActor* OtherActor,
     UPrimitiveComponent* OtherComp, FVector NormalImpulse,
     const FHitResult& Hit)
 {
-    // Don’t damage ourselves or null
     if (!OtherActor || OtherActor == this)
     {
+        Destroy();
         return;
     }
 
-    // Apply UE damage so your Event AnyDamage fires on the car
+    // Just apply damage to whatever we hit.
+    // Your Blueprint "Event AnyDamage" on the player will handle health/respawn.
     UGameplayStatics::ApplyDamage(
         OtherActor,
         Damage,
         GetInstigatorController(),
         this,
-        nullptr // DamageType
+        nullptr
     );
 
-    Destroy();
+    Destroy(); // only kill the bullet, never the player pawn
 }
+
+
