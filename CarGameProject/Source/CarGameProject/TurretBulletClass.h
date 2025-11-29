@@ -4,7 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
-#include "TurretBullet.generated.h"
+#include "TurretBulletClass.generated.h"
 
 class USphereComponent;
 class UStaticMeshComponent;

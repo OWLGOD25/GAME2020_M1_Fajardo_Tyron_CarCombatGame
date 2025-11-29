@@ -41,11 +41,5 @@
     <ClInclude Include="..\..\Source\CarGameProject\CarGameProject.h">
       <Filter>Source\CarGameProject</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\Source\CarGameProject\TurretBulletClass.cpp">
-      <Filter>Source\CarGameProject</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\CarGameProject\TurretBulletClass.h">
-      <Filter>Source\CarGameProject</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>

@@ -6,7 +6,7 @@
 #include "Components/StaticMeshComponent.h"
 #include "GameFramework/ProjectileMovementComponent.h"
 #include "Kismet/GameplayStatics.h"
-#include "TurretBullet.h"
+#include "TurretBulletClass.h"
 
 ATurretBullet::ATurretBullet()
 {
