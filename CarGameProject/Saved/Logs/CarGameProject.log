@@ -1845,3 +1845,27 @@ FPackageName: Skipped package /Game/Vehicles/SportsCar/Materials/M_SportsCarBase
 [2025.11.29-08.07.06:573][739]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/My_Assets/NewBlueprint_Auto3
 [2025.11.29-08.07.06:573][739]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/NewBlueprint_Auto397AE34DA41D313996C37638DA46FE3C6.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/Autosaves/Game/My_Assets/NewBlueprint_Auto3.uasset'
 [2025.11.29-08.07.06:575][739]LogFileHelpers: Auto-saving content packages took 0.143
+[2025.11.29-08.07.31:563][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.11.29-08.07.33:976][156]LogSlate: Window 'Save Content' being destroyed
+[2025.11.29-08.07.34:006][156]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.29-08.07.34:095][156]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/My_Assets/NewBlueprint] ([2] browsable assets)...
+[2025.11.29-08.07.34:095][156]OBJ SavePackage: Finished generating thumbnails for package [/Game/My_Assets/NewBlueprint]
+[2025.11.29-08.07.34:122][156]LogSavePackage: Moving output files for package: /Game/My_Assets/NewBlueprint
+[2025.11.29-08.07.34:123][156]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/NewBlueprintADBBAF1241F281745FA3F783025E3E5E.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/My_Assets/NewBlueprint.uasset'
+[2025.11.29-08.07.34:131][156]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/My_Assets/TurretBullet] ([2] browsable assets)...
+[2025.11.29-08.07.34:182][156]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/My_Assets/TurretBullet.TurretBullet]
+[2025.11.29-08.07.34:182][156]OBJ SavePackage: Finished generating thumbnails for package [/Game/My_Assets/TurretBullet]
+[2025.11.29-08.07.34:199][156]LogSavePackage: Moving output files for package: /Game/My_Assets/TurretBullet
+[2025.11.29-08.07.34:199][156]LogSavePackage: Moving '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/TurretBullet40234EFC4330B41F14B95B9F4E2C4F60.tmp' to '../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Content/My_Assets/TurretBullet.uasset'
+[2025.11.29-08.07.34:248][156]LogFileHelpers: InternalPromptForCheckoutAndSave took 241.659 ms
+[2025.11.29-08.07.34:333][156]LogContentValidation: Display: Starting to validate 2 assets
+[2025.11.29-08.07.34:333][156]LogContentValidation: Enabled validators:
+[2025.11.29-08.07.34:334][156]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.29-08.07.34:334][156]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.29-08.07.34:335][156]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.29-08.07.34:335][156]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.29-08.07.34:335][156]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.29-08.07.34:335][156]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.29-08.07.34:338][156]AssetCheck: /Game/My_Assets/NewBlueprint Validating asset
+[2025.11.29-08.07.34:338][156]AssetCheck: /Game/My_Assets/TurretBullet Validating asset
+[2025.11.29-08.07.34:411][156]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/tyron/Downloads/C++ Repo/GAME2020_M1_Fajardo_Tyron_CarCombatGame/CarGameProject/Saved/SourceControl/UncontrolledChangelists.json
