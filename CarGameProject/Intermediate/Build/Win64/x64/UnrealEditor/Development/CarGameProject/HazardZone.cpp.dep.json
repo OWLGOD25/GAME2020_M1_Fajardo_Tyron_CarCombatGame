@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\tyron\\downloads\\c++ repo\\game2020_m1_fajardo_tyron_carcombatgame\\cargameproject\\source\\cargameproject\\hazardzone.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\tyron\\downloads\\c++ repo\\game2020_m1_fajardo_tyron_carcombatgame\\cargameproject\\intermediate\\build\\win64\\x64\\cargameprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\tyron\\downloads\\c++ repo\\game2020_m1_fajardo_tyron_carcombatgame\\cargameproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cargameproject\\definitions.cargameproject.h",
+            "c:\\users\\tyron\\downloads\\c++ repo\\game2020_m1_fajardo_tyron_carcombatgame\\cargameproject\\source\\cargameproject\\hazardzone.h",
+            "c:\\users\\tyron\\downloads\\c++ repo\\game2020_m1_fajardo_tyron_carcombatgame\\cargameproject\\intermediate\\build\\win64\\unrealeditor\\inc\\cargameproject\\uht\\hazardzone.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\components\\capsulecomponent.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\capsulecomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

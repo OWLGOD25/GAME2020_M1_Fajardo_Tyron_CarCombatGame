@@ -7,9 +7,21 @@
         "Includes": [
             "c:\\users\\tyron\\downloads\\c++ repo\\game2020_m1_fajardo_tyron_carcombatgame\\cargameproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cargameproject\\definitions.cargameproject.h",
             "c:\\users\\tyron\\downloads\\c++ repo\\game2020_m1_fajardo_tyron_carcombatgame\\cargameproject\\intermediate\\build\\win64\\unrealeditor\\inc\\cargameproject\\uht\\cargameproject.init.gen.cpp",
+            "c:\\users\\tyron\\downloads\\c++ repo\\game2020_m1_fajardo_tyron_carcombatgame\\cargameproject\\intermediate\\build\\win64\\unrealeditor\\inc\\cargameproject\\uht\\hazardzone.gen.cpp",
+            "c:\\users\\tyron\\downloads\\c++ repo\\game2020_m1_fajardo_tyron_carcombatgame\\cargameproject\\source\\cargameproject\\hazardzone.h",
+            "c:\\users\\tyron\\downloads\\c++ repo\\game2020_m1_fajardo_tyron_carcombatgame\\cargameproject\\intermediate\\build\\win64\\unrealeditor\\inc\\cargameproject\\uht\\hazardzone.generated.h",
+            "c:\\users\\tyron\\downloads\\c++ repo\\game2020_m1_fajardo_tyron_carcombatgame\\cargameproject\\intermediate\\build\\win64\\unrealeditor\\inc\\cargameproject\\uht\\slipperyhazardzone.gen.cpp",
+            "c:\\users\\tyron\\downloads\\c++ repo\\game2020_m1_fajardo_tyron_carcombatgame\\cargameproject\\source\\cargameproject\\slipperyhazardzone.h",
+            "c:\\users\\tyron\\downloads\\c++ repo\\game2020_m1_fajardo_tyron_carcombatgame\\cargameproject\\intermediate\\build\\win64\\unrealeditor\\inc\\cargameproject\\uht\\slipperyhazardzone.generated.h",
+            "c:\\users\\tyron\\downloads\\c++ repo\\game2020_m1_fajardo_tyron_carcombatgame\\cargameproject\\intermediate\\build\\win64\\unrealeditor\\inc\\cargameproject\\uht\\slowhazardzone.gen.cpp",
+            "c:\\users\\tyron\\downloads\\c++ repo\\game2020_m1_fajardo_tyron_carcombatgame\\cargameproject\\source\\cargameproject\\slowhazardzone.h",
+            "c:\\users\\tyron\\downloads\\c++ repo\\game2020_m1_fajardo_tyron_carcombatgame\\cargameproject\\intermediate\\build\\win64\\unrealeditor\\inc\\cargameproject\\uht\\slowhazardzone.generated.h",
             "c:\\users\\tyron\\downloads\\c++ repo\\game2020_m1_fajardo_tyron_carcombatgame\\cargameproject\\intermediate\\build\\win64\\unrealeditor\\inc\\cargameproject\\uht\\turretbulletclass.gen.cpp",
             "c:\\users\\tyron\\downloads\\c++ repo\\game2020_m1_fajardo_tyron_carcombatgame\\cargameproject\\source\\cargameproject\\turretbulletclass.h",
-            "c:\\users\\tyron\\downloads\\c++ repo\\game2020_m1_fajardo_tyron_carcombatgame\\cargameproject\\intermediate\\build\\win64\\unrealeditor\\inc\\cargameproject\\uht\\turretbulletclass.generated.h"
+            "c:\\users\\tyron\\downloads\\c++ repo\\game2020_m1_fajardo_tyron_carcombatgame\\cargameproject\\intermediate\\build\\win64\\unrealeditor\\inc\\cargameproject\\uht\\turretbulletclass.generated.h",
+            "c:\\users\\tyron\\downloads\\c++ repo\\game2020_m1_fajardo_tyron_carcombatgame\\cargameproject\\intermediate\\build\\win64\\unrealeditor\\inc\\cargameproject\\uht\\windhazardzone.gen.cpp",
+            "c:\\users\\tyron\\downloads\\c++ repo\\game2020_m1_fajardo_tyron_carcombatgame\\cargameproject\\source\\cargameproject\\windhazardzone.h",
+            "c:\\users\\tyron\\downloads\\c++ repo\\game2020_m1_fajardo_tyron_carcombatgame\\cargameproject\\intermediate\\build\\win64\\unrealeditor\\inc\\cargameproject\\uht\\windhazardzone.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

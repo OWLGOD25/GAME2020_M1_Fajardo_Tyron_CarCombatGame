@@ -3,7 +3,11 @@
 	{
 		"Module.CarGameProject.gen.cpp.obj": [
 			"CarGameProject.init.gen.cpp.obj",
-			"TurretBulletClass.gen.cpp.obj"
+			"HazardZone.gen.cpp.obj",
+			"SlipperyHazardZone.gen.cpp.obj",
+			"SlowHazardZone.gen.cpp.obj",
+			"TurretBulletClass.gen.cpp.obj",
+			"WindHazardZone.gen.cpp.obj"
 		]
 	}
 }
